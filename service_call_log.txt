@@ -1,0 +1,60 @@
+Llamadas exitosas: 0, Llamadas fallidas: 2
+Llamadas exitosas: 0, Llamadas fallidas: 2
+Llamadas exitosas: 0, Llamadas fallidas: 2
+Llamadas exitosas: 67, Llamadas fallidas: 0
+Duración de la llamada: 32.136 segundos, Programas enviados: 27
+Duración de la llamada: 7.092 segundos, Programas enviados: 6
+Duración de la llamada: 366.777 segundos, Programas enviados: 34
+Llamadas exitosas: 3, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 2.01 segundos, Programas enviados: 100
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 0.54 segundos, Programas enviados: 57
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 0.478 segundos, Programas enviados: 57
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 51, Llamadas fallidas: 6
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 40, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 70.085 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 59.79 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 0.265 segundos, Programas enviados: 27
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 0.262 segundos, Programas enviados: 27
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 6.117 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 5.463 segundos, Programas enviados: 27
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 7.967 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 5.26 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 114.141 segundos, Programas enviados: 27
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 114.289 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 114.784 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 7.253 segundos, Programas enviados: 27
+Llamadas exitosas: 1, Llamadas fallidas: 0
