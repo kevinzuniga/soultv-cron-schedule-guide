@@ -16,7 +16,7 @@ function excelDateToString(excelDate) {
 
 // Función para convertir el valor numérico de Excel a un formato de hora
 function excelTimeToString(excelTime) {
-  if (!excelTime || isNaN(excelTime)) return null;
+  if (excelTime === undefined || excelTime === null || excelTime === '') return null;
   const time = parseFloat(excelTime);
   const totalMinutes = Math.round(time * 24 * 60);
   const hours = Math.floor(totalMinutes / 60);
@@ -68,12 +68,19 @@ const programsByTitle = {};
 
 for (let i = startRow + 1; i < data.length; i++) {
   const row = data[i];
-  if (!row[startCol] || !row[startCol + 1] || !row[startCol + 2] || (row[startCol + 2] === 'PROGRAMA')) continue; // Saltar filas incompletas
+
+  // Verificar si las columnas relevantes tienen valores
+  if (row[startCol] === undefined || row[startCol + 1] === undefined || row[startCol + 2] === undefined || row[startCol + 3] === 'PROGRAMA') continue;
 
   const [dayOfWeek, date, startTime, program, genre, classification] = row.slice(startCol, startCol + 6);
 
+  // Saltar las filas que tienen "PROGRAMA" en la columna del nombre del programa
+  if (program === 'PROGRAMA') continue;
+
   const formattedDate = excelDateToString(date);
   const formattedStartTime = excelTimeToString(startTime);
+
+  if (!formattedStartTime) continue; // Si el tiempo no es válido, saltar la fila
 
   // Determinar el fin del programa
   let formattedStopTime = '23:59:59'; // Por defecto, el fin del programa es el final del día
