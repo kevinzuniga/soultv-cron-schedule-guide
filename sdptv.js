@@ -2,13 +2,18 @@ const fs = require('fs');
 const path = require('path');
 const xlsx = require('xlsx');
 const { format, startOfWeek, addDays } = require('date-fns');
-const { ro } = require('date-fns/locale');
 
 const filePath = process.argv[2];
 console.log('filePath', filePath);
 const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
+
 // Función para convertir el valor numérico de Excel a un formato de hora
 function excelTimeToString(excelTime) {
+  if (excelTime === undefined || excelTime === null || isNaN(excelTime)) return null;
+  
+  // Asegurar que el valor 0 sea tratado como 00:00:00
+  if (excelTime === 0) return '00:00:00';
+  
   const time = parseFloat(excelTime);
   const totalMinutes = Math.round(time * 24 * 60);
   const hours = Math.floor(totalMinutes / 60);
@@ -34,7 +39,7 @@ const daysOfWeek = {
 // Cargar el archivo Excel
 const workbook = xlsx.readFile(filePath);
 
-// Procesar la hoja "Planilha1"
+// Procesar la hoja "Programação"
 const sheet = workbook.Sheets['Programação'];
 const data = xlsx.utils.sheet_to_json(sheet, { header: 1 });
 
@@ -45,13 +50,17 @@ const programsByTitle = {};
 for (let i = 0; i < data.length; i++) {
   const row = data[i];
   
+  // Verificar si la fila contiene un día de la semana
   if (row[2] && daysOfWeek[row[2].trim()]) {
     currentDay = row[2].trim();
     continue;
   }
-  if (row[2] && row[2].trim() === 'Programa') continue;
-  // como hago un condicional para row[2] que ingrese si es un numero de cero o mayor, puede ser decimal
-  if (!currentDay && (!((typeof row[0]) === 'number') || !((typeof row[1]) === 'number') || !row[2])) continue; // Saltar filas sin datos relevantes
+  
+  // Saltar filas donde `row[2]` es "Programa"
+  if (row[2] && row[2].trim().toUpperCase() === 'PROGRAMA') continue;
+
+  // Verificar si las columnas relevantes tienen valores y tratar 0 como válido
+  if (!currentDay || (typeof row[0] !== 'number' && row[0] !== 0) || (typeof row[1] !== 'number' && row[1] !== 0) || !row[2]) continue;
 
   const startTime = row[0];
   const endTime = row[1];
@@ -60,6 +69,8 @@ for (let i = 0; i < data.length; i++) {
   const formattedDate = daysOfWeek[currentDay];
   const formattedStartTime = excelTimeToString(startTime);
   const formattedEndTime = excelTimeToString(endTime);
+
+  if (!formattedStartTime || !formattedEndTime) continue; // Si el tiempo no es válido, saltar la fila
 
   if (!programsByTitle[program]) {
     programsByTitle[program] = {};
