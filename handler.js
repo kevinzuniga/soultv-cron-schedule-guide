@@ -97,22 +97,55 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
 
     for (const [date, times] of Object.entries(days)) {
       const dayOfWeek = new Date(date.split('/').reverse().join('-')).getDay();
+
       times.forEach(({ startTime, stopTime }) => {
-        const duration = getDuration(startTime, stopTime);
+        console.log(`Procesando programa: ${name}`, times); // Verificación de datos de entrada
+
+        let adjustedStopTime = stopTime;
+        let endDate = date;
+
+        let duration = getDuration(startTime, stopTime);
+        console.log(`Duración calculada para ${name} en ${date}: ${duration} minutos`); // Verificación de duración
+
+        // Caso 1: Si el programa cruza la medianoche
+        if (duration < 0) {
+          const startOfNextDay = new Date(new Date(date.split('/').reverse().join('-')).getTime() + 24 * 60 * 60 * 1000);
+          endDate = formatDate(`${startOfNextDay.getDate()}/${startOfNextDay.getMonth() + 1}/${startOfNextDay.getFullYear()}`);
+
+          adjustedStopTime = stopTime;  // Mantener el stopTime como fue ingresado
+          duration = getDuration(startTime, stopTime); // Recalcular duración correctamente
+        }
+
+        // Caso 2: Si el programa termina exactamente a la medianoche
+        if (stopTime === "00:00:00") {
+          adjustedStopTime = "23:59:00";  // Ajustar stopTime al final del día
+          duration = getDuration(startTime, adjustedStopTime);
+        }
+
+        // Solo agregar al payload si la duración es mayor a 29 minutos
         if (duration > 29) {
           const daysArray = Array(7).fill(false);
           daysArray[dayOfWeek] = true;
+
+          if (duration < 0) {  // Marcar el día siguiente también si cruza medianoche
+            const nextDayOfWeek = (dayOfWeek + 1) % 7;
+            daysArray[nextDayOfWeek] = true;
+          }
+
           const daysObj = Object.fromEntries(daysArray.map((val, idx) => [idx, val]));
-          
+
           const schedule = {
             start_date: formatDate(date),
-            end_date: formatDate(date),
+            end_date: formatDate(endDate),
             available: true,
             time_start: formatTime(startTime),
-            time_end: formatTime(stopTime),
+            time_end: formatTime(adjustedStopTime),
             days: daysObj
           };
+
           schedules.push(schedule);
+        } else {
+          console.log(`El programa ${name} en ${date} fue omitido debido a la duración: ${duration} minutos`); // Verificación de omisión
         }
       });
     }
@@ -128,7 +161,7 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
   }
 
   if (payloadList.length > 0) {
-    console.log('Payload a enviar:', JSON.stringify(payloadList, null, 2));
+    // console.log('Payload preparado:', JSON.stringify(payloadList, null, 2)); // Verificación del payload
 
     const startTime = Date.now();
     try {
@@ -147,6 +180,18 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
   return { successCount, failureCount };
 }
 
+function getDuration(startTime, stopTime) {
+  const start = new Date(`1970-01-01T${startTime}Z`);
+  let stop = new Date(`1970-01-01T${stopTime}Z`);
+
+  // Si stopTime es menor que startTime, asume que cruza la medianoche
+  if (stop < start) {
+    stop = new Date(stop.getTime() + 24 * 60 * 60 * 1000); // Añadir 24 horas al tiempo de finalización
+  }
+
+  return (stop - start) / (1000 * 60); // Duración en minutos
+}
+
 function formatDate(dateStr) {
   const [day, month, year] = dateStr.split('/');
   return `${day}-${month}-${year}`;
@@ -154,12 +199,6 @@ function formatDate(dateStr) {
 
 function formatTime(timeStr) {
   return timeStr.substring(0, 5);
-}
-
-function getDuration(startTime, stopTime) {
-  const start = new Date(`1970-01-01T${startTime}Z`);
-  const stop = new Date(`1970-01-01T${stopTime}Z`);
-  return (stop - start) / (1000 * 60); // Duración en minutos
 }
 
 async function postProgramData(data) {

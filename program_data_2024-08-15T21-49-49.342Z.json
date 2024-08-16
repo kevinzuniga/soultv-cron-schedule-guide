@@ -1,0 +1,3649 @@
+[
+  {
+    "channel_id": 172,
+    "name": "PODCAST NORDESTINO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SDP CINE RETRÔ ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "04:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "02:30",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "02:30",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "02:30",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PENSE DIFERENTE",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FÉ E OBRAS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SANTO TERÇO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "07:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "07:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "07:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "07:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "07:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "VERTICALIZANDO CAST",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "07:30",
+        "time_end": "08:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "07:30",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "07:30",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "07:30",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "07:30",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "ORIGENS DO SUL ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "EMPREENDEDORISMO E CARREIRA EM FOCO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "09:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "09:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "09:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "09:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "09:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "GIRO DA GASTRONOMIA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "09:30",
+        "time_end": "10:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "09:30",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "09:30",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "09:30",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "09:30",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "VIAJANDO PELO BRASIL",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PAINEL ESPORTIVO NA TV",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "JORNAL DO BORIS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "11:30",
+        "time_end": "12:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "11:30",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "11:30",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "11:30",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CONEXAO TAMO JUNTO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CLK",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "BRINCANDO COM A VIDA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "14:30",
+        "time_end": "15:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "14:30",
+        "time_end": "15:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "14:30",
+        "time_end": "15:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "14:30",
+        "time_end": "15:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "14:30",
+        "time_end": "15:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "AVENTURANDO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "15:00",
+        "time_end": "15:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "15:00",
+        "time_end": "15:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "15:00",
+        "time_end": "15:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "15:00",
+        "time_end": "15:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "15:00",
+        "time_end": "15:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PAINEL FEMININO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "TÁ NA TELA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "16:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "HORA DO MATUTO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CULTURA POD",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "18:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FACE A FACE ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "INTELIGÊNCIA CONDOMINIAL ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "EM CASA COM CIBELE ATTALLAH",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FOCO & SUCESSO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SEU DUDU EMPREENDEDOR ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "21:30",
+        "time_end": "22:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CONHECER",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "BAC CAST",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-08-2024",
+        "end_date": "12-08-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "RICARDO RIBEIRO E VC",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PENSE DIFERENTE ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FE E OBRAS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "JORNAL DO BORIS ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "11:30",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CONEXÃO TAMO JUNTO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PAINEL FEMININO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "TÁ NA TELA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "IMAGINE ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CONTA TUDO VITILINDA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "O SUCESSO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FISSURADA POD ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FALA AÍ TÚLIO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "REMEMBER",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "POD & VIR",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "21:30",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "POD DEZ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "13-08-2024",
+        "end_date": "13-08-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SDP CINE RETRO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "02:30",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "VIAJANDO PELO BRASIL ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CULTURA NA JANELA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PÁ NA CABEÇA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "14:00",
+        "time_end": "14:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "POD ROMANO?",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CANAL NOTA DEZ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "MULHERES EM AÇÃO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PROGRAMA ORACULUS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "DIALOGOS CÊNICOS ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "UNIVERSO, COMO PODE MELHORAR?",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "14-08-2024",
+        "end_date": "14-08-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FE E OBRAS ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "E AI MULHERADA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "BET ALL OR GIVE UP",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "GVN",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "15-08-2024",
+        "end_date": "15-08-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PARASHA ANIMADA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "HEBRAICANDO COM MORE MICHA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PEDREIRA NEWS ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "NA LATA USA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SEXTOU MUSICAL",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "POD DANÇAR ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "21:30",
+        "time_end": "22:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "AFTER HOUSE ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "22:30",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FALANDO DE CINEMA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SILVÃO SHOW",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "16-08-2024",
+        "end_date": "16-08-2024",
+        "available": true,
+        "time_start": "23:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "POD CAST NORDESTINO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SINTONIZADOS EM CRISTO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "05:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "NA ATIVA COM DAN",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "05:00",
+        "time_end": "05:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "DANCANDO COM JACARÉ ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "05:30",
+        "time_end": "06:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "TRILHA MANIA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "06:30",
+        "time_end": "07:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PESCA SHOW",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "07:30",
+        "time_end": "08:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PESCANDO COM CAÇADOR",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SARAU ELETRÔNICO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "HISTÓRIAS ENCENADAS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "09:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PODLAKIDS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "LELEKO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CONECTANDO COM VILCE BARBIERI ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "11:30",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PERFIL SHOW ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "DEDINHO DE PROSA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "MULHERES REAIS",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PAULA MENDES COM VOCÊ ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "TV MULHER ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "OLHAR CINICO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SOM DE PAPO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "POD BAILAR COMIGO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "TOQUE SHOW",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "17-08-2024",
+        "end_date": "17-08-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "BATE PAPO COM LUIS GUIMARÃES ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FONTE DE ÁGUA VIVA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "EGBE AYO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "08:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "MUNDO DOS TALENTOS ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SOM DA VIOLA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "08:30",
+        "time_end": "09:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "VIOLA E PROSA",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "09:00",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "ROTA NORDESTE ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "QUILOMBO PODCAST",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "SHOP SHOW",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "S DE SAÚDE ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "FALA BROWN ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "14:00",
+        "time_end": "15:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "HORA DA MARMITA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "15:00",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "QUIZ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "BRINCADEIRAS DO SERTÃO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "PROGRAMA ELIANE CAMARGO",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "19:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "CULTURA PURA ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "19:30",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "BRASIL 360 GRAUS ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "DE PAPO ",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 172,
+    "name": "THE ONE",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "18-08-2024",
+        "end_date": "18-08-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  }
+]
