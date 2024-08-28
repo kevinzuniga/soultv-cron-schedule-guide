@@ -89,3 +89,5 @@ Duración de la llamada: 0.616 segundos, Programas enviados: 106
 Llamadas exitosas: 0, Llamadas fallidas: 1
 Duración de la llamada: 3.436 segundos, Programas enviados: 105
 Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 5.275 segundos, Programas enviados: 105
+Llamadas exitosas: 1, Llamadas fallidas: 0
