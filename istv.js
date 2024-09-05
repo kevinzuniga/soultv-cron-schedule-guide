@@ -9,6 +9,9 @@ const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(f
 
 // Función para convertir el valor numérico de Excel a un formato de fecha
 function excelDateToString(excelDate) {
+  console.log('excelDate', excelDate);
+  // si quiero ver el tipo de dato de excelDate
+  console.log('typeof excelDate', typeof excelDate);
   const jsDate = new Date((excelDate - 25569) * 86400 * 1000); // Ajuste del valor base de Excel
   const adjustedDate = addDays(jsDate, 1); // Ajustar la fecha sumando un día
   return format(adjustedDate, 'dd/MM/yyyy');
@@ -27,25 +30,78 @@ function excelTimeToString(excelTime) {
 const workbook = xlsx.readFile(filePath);
 
 // Procesar la hoja "Planilha1"
-const sheet = workbook.Sheets['Planilha1'];
+// Verificar si la hoja "Planilha1" existe
+let sheet = workbook.Sheets['Planilha1'];
+
+// Si "Planilha1" no existe, usar la primera hoja activa
+if (!sheet) {
+  const sheetName = workbook.SheetNames[0]; // Toma la primera hoja en la lista de hojas
+  sheet = workbook.Sheets[sheetName];
+  console.log(`"Planilha1" no encontrada. Usando la hoja activa: ${sheetName}`);
+}
+
 const data = xlsx.utils.sheet_to_json(sheet, { header: 1 });
 
-// Procesar las filas a partir de la fila 3 y columna B
+// Días de la semana en portugués
+const diasSemana = ["SEGUNDA", "TERÇA", "QUARTA", "QUINTA", "SEXTA", "SÁBADO", "SABADO", "DOMINGO"];
+
+let startRow = 0;
+let startCol = -1;
+
+// Buscar la primera fila con datos y la columna que contiene un día de la semana
+for (let i = 0; i < data.length; i++) {
+  const row = data[i];
+  for (let j = 0; j < row.length; j++) {
+    if (typeof row[j] === 'string' && diasSemana.includes(row[j].toUpperCase())) {
+      startRow = i;
+      startCol = j;
+      break;
+    }
+  }
+  if (startCol !== -1) break;
+}
+
+if (startCol === -1) {
+  console.error('No se encontró una columna con un día de la semana en portugués.');
+  process.exit(1);
+}
+
 const programsByTitle = {};
 
-for (let i = 2; i < data.length; i++) {
+for (let i = startRow + 1; i < data.length; i++) {
   const row = data[i];
 
-  if (!row[0] || !row[1] || !row[2]) continue; // Saltar filas incompletas
+  console.log('row',i, row);
 
-  const [dayOfWeek, date, startTime, program, genre, classification] = row.slice(0, 6);
+  if (row[startCol] === undefined || row[startCol + 1] === undefined || row[startCol + 2] === undefined || row[startCol + 3] === 'PROGRAMA') continue;
+
+  const [dayOfWeek, date, startTime, program, genre, classification] = row.slice(startCol, startCol + 6);
+
+  // Saltar las filas que tienen "PROGRAMA" en la columna del nombre del programa
+  if (program === 'PROGRAMA') continue;
 
   const formattedDate = excelDateToString(date);
   const formattedStartTime = excelTimeToString(startTime);
 
+  if (!formattedStartTime) continue; // Si el tiempo no es válido, saltar la fila
+
   // Determinar el fin del programa
+  let formattedStopTime = '23:59:59'; // Por defecto, el fin del programa es el final del día
   const nextRow = data[i + 1];
-  const formattedStopTime = nextRow && nextRow[2] ? excelTimeToString(nextRow[2]) : '23:59:59';
+  
+  if (nextRow) {
+    const nextDayOfWeek = nextRow[startCol];
+    const nextDate = nextRow[startCol + 1];
+    const nextStartTime = nextRow[startCol + 2];
+
+    if (nextStartTime && nextStartTime !== 'PROGRAMA') {
+      if (nextDayOfWeek === dayOfWeek) {
+        formattedStopTime = excelTimeToString(nextStartTime);
+      } else if (nextDate && formattedDate !== excelDateToString(nextDate)) {
+        formattedStopTime = '23:59:59'; // Si el siguiente programa es en un día diferente, terminar a las 23:59:59
+      }
+    }
+  }
 
   if (!programsByTitle[program]) {
     programsByTitle[program] = {};
