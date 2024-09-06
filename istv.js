@@ -9,9 +9,6 @@ const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(f
 
 // Función para convertir el valor numérico de Excel a un formato de fecha
 function excelDateToString(excelDate) {
-  console.log('excelDate', excelDate);
-  // si quiero ver el tipo de dato de excelDate
-  console.log('typeof excelDate', typeof excelDate);
   const jsDate = new Date((excelDate - 25569) * 86400 * 1000); // Ajuste del valor base de Excel
   const adjustedDate = addDays(jsDate, 1); // Ajustar la fecha sumando un día
   return format(adjustedDate, 'dd/MM/yyyy');
@@ -20,9 +17,15 @@ function excelDateToString(excelDate) {
 // Función para convertir el valor numérico de Excel a un formato de hora
 function excelTimeToString(excelTime) {
   const time = parseFloat(excelTime);
-  const totalMinutes = Math.round(time * 24 * 60);
-  const hours = Math.floor(totalMinutes / 60);
+  const totalMinutes = Math.round(time * 24 * 60); // Convertir la fracción del día a minutos
+  let hours = Math.floor(totalMinutes / 60);
   const minutes = totalMinutes % 60;
+
+  // Asegurarse de que las horas estén en el rango de 0 a 23
+  if (hours >= 24) {
+    hours = hours % 24;
+  }
+
   return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:00`;
 }
 

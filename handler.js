@@ -1,7 +1,8 @@
 'use strict';
 const axios = require('axios');
 const fs = require('fs');
-const { exec } = require('child_process');
+// const { exec } = require('child_process');
+const { spawn } = require('child_process');
 const path = require('path');
 const https = require('https');
 const http = require('http');
@@ -44,31 +45,34 @@ module.exports.processFiles = async () => {
         const scriptPath = path.join(__dirname, `${file_format_type}.js`);
         if (fs.existsSync(scriptPath)) {
           await new Promise((resolve, reject) => {
-            exec(`node ${scriptPath} ${filePath}`, (error, stdout, stderr) => {
-              if (error) {
-                console.error(`Error ejecutando ${file_format_type}.js: ${error.message}`);
-                reject(error);
-                return;
+            const child = spawn('node', [`${scriptPath}`, `${filePath}`]);
+          
+            child.stdout.on('data', (data) => {
+              console.log(`stdout: ${data}`);
+            });
+          
+            child.stderr.on('data', (data) => {
+              console.error(`stderr: ${data}`);
+            });
+          
+            child.on('close', (code) => {
+              if (code !== 0) {
+                reject(new Error(`Proceso finalizó con código ${code}`));
+              } else {
+                const jsonFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
+                const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf8'));
+                processJsonData(jsonData, channel_id, successCount, failureCount)
+                  .then((counts) => {
+                    successCount = counts.successCount;
+                    failureCount = counts.failureCount;
+                    resolve();
+                  })
+                  .catch((err) => {
+                    failureCount++;
+                    console.error(`Error procesando JSON para el canal ${channel_id}:`, err);
+                    reject();
+                  });
               }
-              if (stderr) {
-                console.error(`Error en ${file_format_type}.js: ${stderr}`);
-                reject(stderr);
-                return;
-              }
-              console.log(`Resultado de ${file_format_type}.js: ${stdout}`);
-              const jsonFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
-              const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf8'));
-              processJsonData(jsonData, channel_id, successCount, failureCount)
-                .then((counts) => {
-                  successCount = counts.successCount;
-                  failureCount = counts.failureCount;
-                  resolve();
-                })
-                .catch((err) => {
-                  failureCount++;
-                  console.error(`Error procesando JSON para el canal ${channel_id}:`, err);
-                  reject();
-                });
             });
           });
         } else {
