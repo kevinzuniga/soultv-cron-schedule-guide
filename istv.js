@@ -9,15 +9,22 @@ const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(f
 
 // Función para convertir el valor numérico de Excel a un formato de fecha
 function excelDateToString(excelDate) {
-  const jsDate = new Date((excelDate - 25569) * 86400 * 1000); // Ajuste del valor base de Excel
-  const adjustedDate = addDays(jsDate, 1); // Ajustar la fecha sumando un día
-  return format(adjustedDate, 'dd/MM/yyyy');
+  if (typeof excelDate === 'number') {
+    const jsDate = new Date((excelDate - 25569) * 86400 * 1000); // Ajuste del valor base de Excel
+    const adjustedDate = addDays(jsDate, 1); // Ajustar la fecha sumando un día
+    return format(adjustedDate, 'dd/MM/yyyy');
+  }
+  return excelDate; // Si ya es una cadena, devolverla tal cual
 }
 
 // Función para convertir el valor numérico de Excel a un formato de hora
 function excelTimeToString(excelTime) {
-  const time = parseFloat(excelTime);
-  const totalMinutes = Math.round(time * 24 * 60); // Convertir la fracción del día a minutos
+  if (typeof excelTime !== 'number') return null;
+  if (excelTime === 1 || excelTime === 0) {
+    return "00:00:00";  // Si es 1 o 0, representa las 00:00 horas del mismo día
+  }
+
+  const totalMinutes = Math.round(excelTime * 24 * 60); // Convertir la fracción del día a minutos
   let hours = Math.floor(totalMinutes / 60);
   const minutes = totalMinutes % 60;
 
@@ -33,7 +40,6 @@ function excelTimeToString(excelTime) {
 const workbook = xlsx.readFile(filePath);
 
 // Procesar la hoja "Planilha1"
-// Verificar si la hoja "Planilha1" existe
 let sheet = workbook.Sheets['Planilha1'];
 
 // Si "Planilha1" no existe, usar la primera hoja activa
@@ -48,20 +54,25 @@ const data = xlsx.utils.sheet_to_json(sheet, { header: 1 });
 // Días de la semana en portugués
 const diasSemana = ["SEGUNDA", "TERÇA", "QUARTA", "QUINTA", "SEXTA", "SÁBADO", "SABADO", "DOMINGO"];
 
-let startRow = 0;
 let startCol = -1;
 
-// Buscar la primera fila con datos y la columna que contiene un día de la semana
+// Buscar la primera fila válida que contenga un día de la semana
 for (let i = 0; i < data.length; i++) {
   const row = data[i];
+  
+  // Comprobamos si la fila contiene un día de la semana en la columna esperada
   for (let j = 0; j < row.length; j++) {
     if (typeof row[j] === 'string' && diasSemana.includes(row[j].toUpperCase())) {
-      startRow = i;
-      startCol = j;
+      startCol = j;  // Establecer la columna donde se encuentra el día de la semana
       break;
     }
   }
-  if (startCol !== -1) break;
+
+  // Verificar si la fila contiene suficientes columnas con datos válidos (por ejemplo, hora, programa, etc.)
+  if (startCol !== -1 && row[startCol + 1] && row[startCol + 2] && row[startCol + 3]) {
+    console.log(`Fila de inicio detectada en la fila ${i} y columna ${startCol}`);
+    break; // Salir del bucle cuando se encuentra la primera fila válida
+  }
 }
 
 if (startCol === -1) {
@@ -71,22 +82,38 @@ if (startCol === -1) {
 
 const programsByTitle = {};
 
-for (let i = startRow + 1; i < data.length; i++) {
+// Procesar desde la fila donde se detectaron los datos correctos
+for (let i = 0; i < data.length; i++) {
   const row = data[i];
 
-  console.log('row',i, row);
+  // Verificar si esta fila es cabecera (como 'GRADE MENSAL CANAL ISTV', etc.) o contiene valores vacíos
+  if (typeof row[startCol] !== 'string' || !diasSemana.includes(row[startCol].toUpperCase())) {
+    console.log(`Fila ${i} omitida: parece ser una cabecera o no válida`);
+    continue;
+  }
 
-  if (row[startCol] === undefined || row[startCol + 1] === undefined || row[startCol + 2] === undefined || row[startCol + 3] === 'PROGRAMA') continue;
+  // Verificar que la fila tenga las columnas necesarias
+  if (typeof row[startCol + 1] !== 'number' || typeof row[startCol + 2] !== 'number' || !row[startCol + 3]) {
+    console.log(`Fila ${i} omitida: no tiene suficientes datos válidos`);
+    continue;
+  }
 
   const [dayOfWeek, date, startTime, program, genre, classification] = row.slice(startCol, startCol + 6);
 
   // Saltar las filas que tienen "PROGRAMA" en la columna del nombre del programa
-  if (program === 'PROGRAMA') continue;
+  if (program === 'PROGRAMA') {
+    console.log(`Fila ${i} omitida: es una fila de cabecera 'PROGRAMA'`);
+    continue;
+  }
 
   const formattedDate = excelDateToString(date);
   const formattedStartTime = excelTimeToString(startTime);
 
-  if (!formattedStartTime) continue; // Si el tiempo no es válido, saltar la fila
+  // Asegurarse de que el tiempo de inicio sea válido (aunque sea 00:00)
+  if (!formattedStartTime) {
+    console.log(`Fila ${i} omitida: el tiempo de inicio no es válido`);
+    continue;
+  }
 
   // Determinar el fin del programa
   let formattedStopTime = '23:59:59'; // Por defecto, el fin del programa es el final del día
