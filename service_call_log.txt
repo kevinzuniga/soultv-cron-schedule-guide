@@ -124,3 +124,12 @@ Duración de la llamada: 8.033 segundos, Programas enviados: 54
 Llamadas exitosas: 1, Llamadas fallidas: 0
 Llamadas exitosas: 1, Llamadas fallidas: 0
 Duración de la llamada: 7.286 segundos, Programas enviados: 57
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 1.328 segundos, Programas enviados: 15
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 1.912 segundos, Programas enviados: 15
+Llamadas exitosas: 1, Llamadas fallidas: 0
