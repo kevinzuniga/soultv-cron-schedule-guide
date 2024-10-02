@@ -11,8 +11,8 @@ const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(f
 function excelDateToString(excelDate) {
   if (typeof excelDate === 'number') {
     const jsDate = new Date((excelDate - 25569) * 86400 * 1000); // Ajuste del valor base de Excel
-    const adjustedDate = addDays(jsDate, 1); // Ajustar la fecha sumando un día
-    return format(adjustedDate, 'dd/MM/yyyy');
+    // const adjustedDate = addDays(jsDate, 1); // Ajustar la fecha sumando un día
+    return format(jsDate, 'dd/MM/yyyy');
   }
   return excelDate; // Si ya es una cadena, devolverla tal cual
 }
