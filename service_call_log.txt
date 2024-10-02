@@ -144,3 +144,7 @@ Llamadas exitosas: 1, Llamadas fallidas: 0
 Llamadas exitosas: 1, Llamadas fallidas: 0
 Duración de la llamada: 12.691 segundos, Programas enviados: 190
 Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 12.426 segundos, Programas enviados: 190
+Duración de la llamada: 9.943 segundos, Programas enviados: 190
+Llamadas exitosas: 1, Llamadas fallidas: 0
