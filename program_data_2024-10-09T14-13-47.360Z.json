@@ -5,8 +5,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -37,8 +37,8 @@
         }
       },
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "15:00",
@@ -53,8 +53,8 @@
         }
       },
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "19:00",
@@ -69,8 +69,8 @@
         }
       },
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "22:00",
@@ -85,8 +85,8 @@
         }
       },
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:59",
@@ -101,8 +101,8 @@
         }
       },
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -117,8 +117,8 @@
         }
       },
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -133,8 +133,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -149,8 +149,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -165,8 +165,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -181,8 +181,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -197,8 +197,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -213,8 +213,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -229,8 +229,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -245,8 +245,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -261,8 +261,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "00:00",
         "time_end": "03:00",
@@ -277,8 +277,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "06:00",
         "time_end": "10:00",
@@ -293,8 +293,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "15:00",
@@ -309,8 +309,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "22:00",
@@ -325,8 +325,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:59",
@@ -348,8 +348,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -364,8 +364,8 @@
         }
       },
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -380,8 +380,8 @@
         }
       },
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
@@ -396,8 +396,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -412,8 +412,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
@@ -428,8 +428,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -444,8 +444,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
@@ -460,8 +460,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -476,8 +476,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
@@ -492,8 +492,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -508,8 +508,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
@@ -524,8 +524,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "03:00",
         "time_end": "06:00",
@@ -547,8 +547,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "15-09-2024",
-        "end_date": "15-09-2024",
+        "start_date": "01-09-2024",
+        "end_date": "01-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
@@ -570,8 +570,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "12:00",
@@ -586,8 +586,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "12:00",
@@ -602,8 +602,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "12:00",
@@ -618,8 +618,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "12:00",
@@ -634,8 +634,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "11:00",
         "time_end": "12:00",
@@ -657,8 +657,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "12:00",
         "time_end": "13:00",
@@ -673,8 +673,8 @@
         }
       },
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "18:00",
         "time_end": "19:00",
@@ -689,8 +689,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "12:00",
         "time_end": "13:00",
@@ -705,8 +705,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "18:00",
         "time_end": "19:00",
@@ -721,8 +721,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "12:00",
         "time_end": "13:00",
@@ -737,8 +737,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "18:00",
         "time_end": "19:00",
@@ -753,8 +753,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "12:00",
         "time_end": "13:00",
@@ -769,8 +769,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "18:00",
         "time_end": "19:00",
@@ -785,8 +785,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "12:00",
         "time_end": "13:00",
@@ -801,8 +801,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "18:00",
         "time_end": "19:00",
@@ -824,8 +824,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "13:00",
         "time_end": "14:00",
@@ -840,8 +840,8 @@
         }
       },
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "20:00",
@@ -856,8 +856,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "13:00",
         "time_end": "14:00",
@@ -872,8 +872,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "20:00",
@@ -888,8 +888,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "13:00",
         "time_end": "14:00",
@@ -904,8 +904,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "20:00",
@@ -920,8 +920,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "13:00",
         "time_end": "14:00",
@@ -936,8 +936,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "20:00",
@@ -952,8 +952,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "13:00",
         "time_end": "14:00",
@@ -968,8 +968,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "19:00",
         "time_end": "20:00",
@@ -991,8 +991,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "14:00",
         "time_end": "15:00",
@@ -1007,8 +1007,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "14:00",
         "time_end": "15:00",
@@ -1023,8 +1023,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "14:00",
         "time_end": "15:00",
@@ -1039,8 +1039,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "14:00",
         "time_end": "15:00",
@@ -1055,8 +1055,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "14:00",
         "time_end": "15:00",
@@ -1078,8 +1078,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "16:00",
@@ -1094,8 +1094,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "16:00",
@@ -1110,8 +1110,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "16:00",
@@ -1126,8 +1126,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "16:00",
@@ -1142,8 +1142,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "16:00",
@@ -1158,8 +1158,8 @@
         }
       },
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "15:00",
         "time_end": "19:00",
@@ -1181,8 +1181,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "16:00",
         "time_end": "17:00",
@@ -1197,8 +1197,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "16:00",
         "time_end": "17:00",
@@ -1213,8 +1213,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "16:00",
         "time_end": "17:00",
@@ -1229,8 +1229,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "16:00",
         "time_end": "17:00",
@@ -1245,8 +1245,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "16:00",
         "time_end": "17:00",
@@ -1268,8 +1268,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "17:00",
         "time_end": "18:00",
@@ -1284,8 +1284,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "17:00",
         "time_end": "18:00",
@@ -1300,8 +1300,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "17:00",
         "time_end": "18:00",
@@ -1316,8 +1316,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "17:00",
         "time_end": "18:00",
@@ -1332,8 +1332,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "17:00",
         "time_end": "18:00",
@@ -1355,8 +1355,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "20:00",
         "time_end": "21:00",
@@ -1371,8 +1371,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "20:00",
         "time_end": "21:00",
@@ -1387,8 +1387,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "20:00",
         "time_end": "21:00",
@@ -1403,8 +1403,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "20:00",
         "time_end": "21:00",
@@ -1419,8 +1419,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "20:00",
         "time_end": "21:00",
@@ -1442,8 +1442,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "21:00",
         "time_end": "22:00",
@@ -1458,8 +1458,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "21:00",
         "time_end": "22:00",
@@ -1474,8 +1474,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "21:00",
         "time_end": "22:00",
@@ -1490,8 +1490,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "21:00",
         "time_end": "22:00",
@@ -1506,8 +1506,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "21:00",
         "time_end": "22:00",
@@ -1529,8 +1529,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:00",
@@ -1545,8 +1545,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:00",
@@ -1561,8 +1561,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:00",
@@ -1577,8 +1577,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:00",
@@ -1593,8 +1593,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "22:00",
         "time_end": "23:00",
@@ -1616,8 +1616,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "16-09-2024",
-        "end_date": "16-09-2024",
+        "start_date": "02-09-2024",
+        "end_date": "02-09-2024",
         "available": true,
         "time_start": "23:00",
         "time_end": "23:59",
@@ -1632,8 +1632,8 @@
         }
       },
       {
-        "start_date": "17-09-2024",
-        "end_date": "17-09-2024",
+        "start_date": "03-09-2024",
+        "end_date": "03-09-2024",
         "available": true,
         "time_start": "23:00",
         "time_end": "23:59",
@@ -1648,8 +1648,8 @@
         }
       },
       {
-        "start_date": "18-09-2024",
-        "end_date": "18-09-2024",
+        "start_date": "04-09-2024",
+        "end_date": "04-09-2024",
         "available": true,
         "time_start": "23:00",
         "time_end": "23:59",
@@ -1664,8 +1664,8 @@
         }
       },
       {
-        "start_date": "19-09-2024",
-        "end_date": "19-09-2024",
+        "start_date": "05-09-2024",
+        "end_date": "05-09-2024",
         "available": true,
         "time_start": "23:00",
         "time_end": "23:59",
@@ -1680,8 +1680,8 @@
         }
       },
       {
-        "start_date": "20-09-2024",
-        "end_date": "20-09-2024",
+        "start_date": "06-09-2024",
+        "end_date": "06-09-2024",
         "available": true,
         "time_start": "23:00",
         "time_end": "23:59",
@@ -1703,8 +1703,8 @@
     "description": "",
     "schedule": [
       {
-        "start_date": "21-09-2024",
-        "end_date": "21-09-2024",
+        "start_date": "07-09-2024",
+        "end_date": "07-09-2024",
         "available": true,
         "time_start": "10:00",
         "time_end": "11:00",
