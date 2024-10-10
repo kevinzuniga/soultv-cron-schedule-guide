@@ -68,16 +68,29 @@ workbook.SheetNames.forEach(sheetName => {
 
     // Convertir el tiempo de inicio y la duración en un formato adecuado
     if (typeof startTime === 'number' && typeof duration === 'number') {
-      const formattedStartTime = excelTimeToString(startTime);
+      let formattedStartTime = excelTimeToString(startTime);
       const totalDurationMinutes = Math.round(duration * 24 * 60);
-      const [startHour, startMinute] = formattedStartTime.split(':').map(Number);
+      let [startHour, startMinute] = formattedStartTime.split(':').map(Number);
+
+      // Ajustar el startHour si es 24 para convertirla a 00
+      if (startHour === 24) {
+        startHour = 0;
+      }
+
+      // Reconstruir el startTime en caso de que haya sido ajustado
+      formattedStartTime = `${startHour.toString().padStart(2, '0')}:${startMinute.toString().padStart(2, '0')}:00`;
 
       // Calcular la nueva hora y minutos al sumar la duración
       let stopHour = startHour + Math.floor((startMinute + totalDurationMinutes) / 60);
       let stopMinute = (startMinute + totalDurationMinutes) % 60;
 
-      // Ajustar la hora si sobrepasa las 24 horas
-      stopHour = stopHour % 24;
+      // Ajustar el stopHour si es 24 para convertirla a 00
+      if (stopHour === 24) {
+        stopHour = 0;
+      } else {
+        // Ajustar la hora si sobrepasa las 24 horas
+        stopHour = stopHour % 24;
+      }
 
       const formattedStopTime = `${stopHour.toString().padStart(2, '0')}:${stopMinute.toString().padStart(2, '0')}:00`;
 
