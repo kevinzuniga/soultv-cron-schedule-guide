@@ -51,19 +51,16 @@ if (!sheet) {
 
 const data = xlsx.utils.sheet_to_json(sheet, { header: 1 });
 
-// Días de la semana en portugués
-const diasSemana = ["SEGUNDA", "TERÇA", "QUARTA", "QUINTA", "SEXTA", "SÁBADO", "SABADO", "DOMINGO"];
-
 let startCol = -1;
 
-// Buscar la primera fila válida que contenga un día de la semana
+// Buscar la primera fila válida que contenga una fecha válida (número de Excel)
 for (let i = 0; i < data.length; i++) {
   const row = data[i];
   
-  // Comprobamos si la fila contiene un día de la semana en la columna esperada
+  // Comprobamos si la fila contiene una fecha válida
   for (let j = 0; j < row.length; j++) {
-    if (typeof row[j] === 'string' && diasSemana.includes(row[j].toUpperCase())) {
-      startCol = j;  // Establecer la columna donde se encuentra el día de la semana
+    if (typeof row[j] === 'number') {
+      startCol = j;  // Establecer la columna donde se encuentra la fecha
       break;
     }
   }
@@ -76,7 +73,7 @@ for (let i = 0; i < data.length; i++) {
 }
 
 if (startCol === -1) {
-  console.error('No se encontró una columna con un día de la semana en portugués.');
+  console.error('No se encontró una columna con una fecha válida.');
   process.exit(1);
 }
 
@@ -86,19 +83,19 @@ const programsByTitle = {};
 for (let i = 0; i < data.length; i++) {
   const row = data[i];
 
-  // Verificar si esta fila es cabecera (como 'GRADE MENSAL CANAL ISTV', etc.) o contiene valores vacíos
-  if (typeof row[startCol] !== 'string' || !diasSemana.includes(row[startCol].toUpperCase())) {
-    console.log(`Fila ${i} omitida: parece ser una cabecera o no válida`);
+  // Verificar si esta fila contiene una fecha válida
+  if (typeof row[startCol] !== 'number') {
+    console.log(`Fila ${i} omitida: no tiene una fecha válida`);
     continue;
   }
 
   // Verificar que la fila tenga las columnas necesarias
-  if (typeof row[startCol + 1] !== 'number' || typeof row[startCol + 2] !== 'number' || !row[startCol + 3]) {
-    console.log(`Fila ${i} omitida: no tiene suficientes datos válidos`);
+  if (typeof row[startCol] !== 'number' || typeof row[startCol + 1] !== 'number' || !row[startCol + 2]) {
+    console.log(`Fila ${i} omitida: no tiene suficientes datos válidos`, startCol, ' - ',row);
     continue;
   }
 
-  const [dayOfWeek, date, startTime, program, genre, classification] = row.slice(startCol, startCol + 6);
+  const [date, startTime, program, genre, classification] = row.slice(startCol, startCol + 5);
 
   // Saltar las filas que tienen "PROGRAMA" en la columna del nombre del programa
   if (program === 'PROGRAMA') {
@@ -120,14 +117,13 @@ for (let i = 0; i < data.length; i++) {
   const nextRow = data[i + 1];
   
   if (nextRow) {
-    const nextDayOfWeek = nextRow[startCol];
-    const nextDate = nextRow[startCol + 1];
-    const nextStartTime = nextRow[startCol + 2];
+    const nextDate = nextRow[startCol];
+    const nextStartTime = nextRow[startCol + 1];
 
     if (nextStartTime && nextStartTime !== 'PROGRAMA') {
-      if (nextDayOfWeek === dayOfWeek) {
+      if (nextDate === date) {
         formattedStopTime = excelTimeToString(nextStartTime);
-      } else if (nextDate && formattedDate !== excelDateToString(nextDate)) {
+      } else {
         formattedStopTime = '23:59:59'; // Si el siguiente programa es en un día diferente, terminar a las 23:59:59
       }
     }
