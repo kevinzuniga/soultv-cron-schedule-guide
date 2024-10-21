@@ -1,0 +1,416 @@
+[
+  {
+    "channel_id": 92,
+    "name": "The Chosen S01E07",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "16:46",
+        "time_end": "17:41",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "The Chosen S01E08",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "17:41",
+        "time_end": "18:41",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "O Cavaleiro Solitário",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "18:41",
+        "time_end": "20:37",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "A Mulher Biônica - Bem Vinda Ao Lar, Jamie Pt1",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "20:38",
+        "time_end": "21:24",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "A Mulher Biônica Bem Vinda Ao Lar, Jamie Pt2",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "21:24",
+        "time_end": "22:11",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "O Homem de 6 Milhões de Dólares S1E1",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "22:11",
+        "time_end": "22:57",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "O Homem de 6 Milhões de Dolares S1E2",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "22:57",
+        "time_end": "23:39",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Missão Impossível",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "11-10-2024",
+        "end_date": "11-10-2024",
+        "available": true,
+        "time_start": "23:39",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Missão Impossível 2",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "03:33",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Missão Impossível 3",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "03:33",
+        "time_end": "05:39",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Missão: Impossível - Protocolo Fantasma",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "05:39",
+        "time_end": "07:52",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "MI_5 Nação Rebelde",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "07:52",
+        "time_end": "10:03",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Jumbo",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "10:04",
+        "time_end": "11:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Link Perdido",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "11:20",
+        "time_end": "12:54",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Osmar A Primeira Fatia Do Pao de Forma",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "12:54",
+        "time_end": "14:14",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Sapatinho Vermelho e os Sete Anões",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "14:14",
+        "time_end": "15:46",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "The Chosen S02E01",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "17:04",
+        "time_end": "18:09",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "The Chosen S02E02",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "12-10-2024",
+        "end_date": "12-10-2024",
+        "available": true,
+        "time_start": "18:09",
+        "time_end": "19:01",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  }
+]

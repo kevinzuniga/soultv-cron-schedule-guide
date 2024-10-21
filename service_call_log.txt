@@ -170,3 +170,11 @@ Llamadas exitosas: 0, Llamadas fallidas: 0
 Llamadas exitosas: 0, Llamadas fallidas: 0
 Llamadas exitosas: 1, Llamadas fallidas: 0
 Duración de la llamada: 7.872 segundos, Programas enviados: 38
+Duración de la llamada: 8.091 segundos, Programas enviados: 38
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 0.944 segundos, Programas enviados: 18
+Duración de la llamada: 0.197 segundos, Programas enviados: 8
+Llamadas exitosas: 0, Llamadas fallidas: 1

@@ -79,6 +79,12 @@ if (startCol === -1) {
 
 const programsByTitle = {};
 
+// Función para convertir un tiempo en formato "HH:MM" a un valor decimal de 0 a 1
+function timeStringToDecimal(timeString) {
+  const [hours, minutes] = timeString.split(':').map(Number);
+  return (hours + minutes / 60) / 24;
+}
+
 // Procesar desde la fila donde se detectaron los datos correctos
 for (let i = 0; i < data.length; i++) {
   const row = data[i];
@@ -90,8 +96,19 @@ for (let i = 0; i < data.length; i++) {
   }
 
   // Verificar que la fila tenga las columnas necesarias
-  if (typeof row[startCol] !== 'number' || typeof row[startCol + 1] !== 'number' || !row[startCol + 2]) {
-    console.log(`Fila ${i} omitida: no tiene suficientes datos válidos`, startCol, ' - ',row);
+  if (typeof row[startCol + 1] === 'string' && row[startCol + 1].includes(':')) {
+    // Convertir el formato "HH:MM" a un valor decimal de 0 a 1
+    const timeString = row[startCol + 1];
+    const decimalTime = timeStringToDecimal(timeString);
+
+    // Sobrescribir la celda con el valor decimal
+    row[startCol + 1] = decimalTime;
+
+    console.log(`Fila ${i}: tiempo en formato string convertido de "${timeString}" a decimal "${decimalTime}"`);
+  }
+
+  if (typeof row[startCol + 1] !== 'number' && typeof row[startCol + 1] !== 'string') {
+    console.log(`Fila ${i} omitida: no tiene suficientes datos válidos`, startCol, ' - ', row);
     continue;
   }
 
