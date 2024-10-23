@@ -178,3 +178,15 @@ Llamadas exitosas: 1, Llamadas fallidas: 0
 Duración de la llamada: 0.944 segundos, Programas enviados: 18
 Duración de la llamada: 0.197 segundos, Programas enviados: 8
 Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 0.959 segundos, Programas enviados: 30
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 1.456 segundos, Programas enviados: 13
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 1.505 segundos, Programas enviados: 13
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 1.388 segundos, Programas enviados: 13
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 1.31 segundos, Programas enviados: 13
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0

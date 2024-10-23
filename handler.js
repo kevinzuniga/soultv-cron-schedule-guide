@@ -98,6 +98,9 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
   for (const program of jsonData) {
     const { program: name, days } = program;
     const schedules = [];
+    for (const [date, times] of Object.entries(days)) {
+      console.log(`***Programa***: ${name} date: ${date}`, times);
+    }
 
     for (const [date, times] of Object.entries(days)) {
       const dayOfWeek = new Date(date.split('/').reverse().join('-')).getDay();

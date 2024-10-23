@@ -69,7 +69,7 @@ try {
   for (let i = 0; i < data.length; i++) {
     const row = data[i];
     for (let j = 0; j < row.length; j++) {
-      if (typeof row[j] === 'string' && diasSemana.includes(row[j].toUpperCase().trim())) {
+      if (typeof row[j] === 'string') {
         startRow = i;
         startCol = j;
         break;
