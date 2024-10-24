@@ -1,0 +1,156 @@
+[
+  {
+    "program": "A Fuga das Galinhas",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "10:18:06",
+          "stopTime": "11:42:34",
+          "genre": "Animação/Comédia",
+          "classification": "Livre",
+          "description": "No campo de Tweedy, um grupo de galinhas tenta encontrar um jeito de escapar da terrível Sra. Tweedy, que pretende transformá-las em torta de frango. Com a chegada do galo americano Rocky, as galinhas veem uma oportunidade de liberdade e com a ajuda dele planejam uma grande fuga."
+        }
+      ]
+    }
+  },
+  {
+    "program": "A Casa Monstro",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "11:42:34",
+          "stopTime": "13:13:12",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": ""
+        }
+      ]
+    }
+  },
+  {
+    "program": "Como Treinar o Seu Dragão 3",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "13:13:12",
+          "stopTime": "14:57:18",
+          "genre": "Animação/Aventura",
+          "classification": "Livre",
+          "description": "Quando Soluço descobre que Banguela não é o único Fúria da Noite restante, ele se vê em uma jornada para encontrar o Mundo Oculto, uma utopia secreta de dragões antes que um tirano chamado Grimmel a encontre primeiro. Enquanto isso, Soluço aprende algumas verdades surpreendentes sobre seu próprio passado. Aventura emocionante para toda a família!"
+        }
+      ]
+    }
+  },
+  {
+    "program": "Taz! Sou Eu!",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "14:57:18",
+          "stopTime": "15:19:34",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Os divertidos Baby Looney Tunes agora estão sob os cuidados da Vovó. Taz é a única criança mais velha no grupo e ele sempre causa confusão com sua hiperatividade. Neste episódio, Taz tenta provar que é um herói e salva todos os seus amigos de um pato malvado na lagoa."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Uma Prova de Fé 2, Voltando para Casa",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "15:20:20",
+          "stopTime": "16:55:19",
+          "genre": "Drama",
+          "classification": "10",
+          "description": "Após uma tragédia pessoal, John e sua esposa tentam reconstruir suas vidas e encontrar forças na fé para superar os desafios que surgem no caminho. Uma história emocionante sobre fé, esperança e recomeços."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Western Sem Lei e Sem Alma",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "16:55:51",
+          "stopTime": "18:58:30",
+          "genre": "Faroeste",
+          "classification": "16",
+          "description": "Em um pequeno vilarejo do velho oeste, um misterioso forasteiro chega com sede de vingança. Ele está determinado a acabar com o reinado de terror do cruel líder da cidade, enfrentando tiroteios épicos e duelos de vida ou morte. Uma história de honra, traição e redenção em meio ao cenário desolado e impiedoso do faroeste americano."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Jeanne é um Gênio S02E01",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "18:59:04",
+          "stopTime": "19:23:59",
+          "genre": "Comédia",
+          "classification": "Livre",
+          "description": "Neste episódio, a divertida e atrapalhada gênio Jeanne continua causando confusões ao tentar ajudar seu mestre Tony a resolver seus problemas cotidianos. Enquanto isso, precisa lidar com as trapalhadas do atrapalhado duende Djinn e com as intervenções da oficial Bellows, que suspeita das atividades sobrenaturais na casa de Tony. Uma série clássica cheia de diversão e magia!"
+        }
+      ]
+    }
+  },
+  {
+    "program": "Viagem ao Fundo do Mar",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "19:23:59",
+          "stopTime": "20:15:16",
+          "genre": "Aventura",
+          "classification": "Livre",
+          "description": "Durante uma expedição marítima, um submarino naufragado é descoberto nas profundezas do oceano. A tripulação embarca em uma perigosa missão para resgatar possíveis sobreviventes e desvendar os mistérios que cercam o naufrágio."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Terra de Gigantes - As Marionetes",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "20:15:17",
+          "stopTime": "21:06:09",
+          "genre": "Ficção Científica",
+          "classification": "Livre",
+          "description": "Neste episódio da segunda temporada da série Terra de Gigantes, os habitantes do planeta começam a agir de forma estranha, como se estivessem sendo controlados por marionetes. A equipe de exploradores liderada pelo comandante Steve Burton investiga a misteriosa situação e descobre uma trama que ameaça a liberdade de todos."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Alien vs Predador",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "21:06:41",
+          "stopTime": "22:55:21",
+          "genre": "Ficção Científica/Ação",
+          "classification": "14",
+          "description": "Uma equipe de exploradores encontra uma antiga pirâmide na Antártica e acaba descobrindo uma batalha épica entre Aliens e Predadores que pode colocar em perigo toda a vida na Terra."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Risco Duplo",
+    "days": {
+      "22/10/2024": [
+        {
+          "startTime": "22:55:22",
+          "stopTime": "00:40:38",
+          "genre": "Ação",
+          "classification": "18",
+          "description": "No filme \"Risco Duplo\", um experiente mercenário é contratado para proteger uma bela mulher que está sendo perseguida por criminosos perigosos. O que ele não esperava é que a situação se complicaria ainda mais quando descobre que a mulher tem informações valiosas que podem colocar em risco a vida de ambos. Agora, ele precisa usar todas as suas habilidades para sobreviver e manter sua cliente a salvo."
+        }
+      ]
+    }
+  }
+]

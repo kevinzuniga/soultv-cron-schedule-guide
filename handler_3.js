@@ -6,58 +6,84 @@ const { spawn } = require('child_process');
 const path = require('path');
 const https = require('https');
 const http = require('http');
-const xml2js = require('xml2js');
 
 // const domain = 'https://dev-cms.soultv.com.br';
 const domain = 'https://cms.soultv.com.br';
 // const domain = 'https://relevant-previously-cowbird.ngrok-free.app';
-
-// Ruta del archivo XML local
-const localFilePath = path.join(__dirname, 'all.xml');
 
 module.exports.processFiles = async () => {
   let successCount = 0;
   let failureCount = 0;
 
   try {
-    // Leer el archivo XML local
-    const data = fs.readFileSync(localFilePath, 'utf8');
-    const parser = new xml2js.Parser();
-    const result = await parser.parseStringPromise(data);
+    // Hacer la solicitud al API
+    const response = await axios.get(domain+'/v1/brand/files/');
+    if (response.data.success) {
+      const files = response.data.data;
 
-    // Procesar programas
-    const programmes = result.tv.programme;
-    
-    const processedProgrammes = programmes.map(program => {
-      const startTime = program.$.start; // Hora de inicio en formato YYYYMMDDHHMMSS ZZZZ
-      const stopTime = program.$.stop; // Hora de fin en el mismo formato
-      const channelId = program.$.channel; // Canal del programa
-      const title = program.title[0]._ || ''; // Título del programa
-      const description = program.desc ? program.desc[0]._ : ''; // Descripción del programa
-      const genre = program.category ? program.category.map(cat => cat._).join(', ') : ''; // Género(s)
-      const classification = program.rating ? program.rating[0].value[0] : ''; // Clasificación del programa
-      const actors = program.credits && program.credits[0].actor ? program.credits[0].actor.map(actor => actor._).join(', ') : '';
-      const directors = program.credits && program.credits[0].director ? program.credits[0].director.map(director => director._).join(', ') : '';
+      for (const file of files) {
+        const { id: channel_id, file_url, file_format_type } = file;
+        
+        // Descargar el archivo
+        const filePath = path.join('./tmp', path.basename(file_url));
+        const fileWriter = fs.createWriteStream(filePath);
 
-      return {
-        channelId,
-        title,
-        startTime,
-        stopTime,
-        genre,
-        classification,
-        description,
-        actors,
-        directors
-      };
-    });
+        await new Promise((resolve, reject) => {
+          const protocol = file_url.startsWith('https') ? https : http;
+          protocol.get(file_url, function(response) {
+            response.pipe(fileWriter);
+            fileWriter.on('finish', function() {
+              fileWriter.close(resolve);
+            });
+          }).on('error', function(err) {
+            fs.unlink(filePath);
+            reject(err.message);
+          });
+        });
 
-    // Crear el JSON con la lista de programas procesados
-    const jsonFilePath = path.join('./tmp', 'programmes.json');
-    fs.writeFileSync(jsonFilePath, JSON.stringify(processedProgrammes, null, 2), 'utf8');
-    console.log(`Archivo JSON generado en ${jsonFilePath}`);
-    
-    successCount = processedProgrammes.length;
+        // Ejecutar el script correspondiente
+        const scriptPath = path.join(__dirname, `${file_format_type}.js`);
+        if (fs.existsSync(scriptPath)) {
+          await new Promise((resolve, reject) => {
+            const child = spawn('node', [`${scriptPath}`, `${filePath}`]);
+          
+            child.stdout.on('data', (data) => {
+              console.log(`stdout: ${data}`);
+            });
+          
+            child.stderr.on('data', (data) => {
+              console.error(`stderr: ${data}`);
+            });
+          
+            child.on('close', (code) => {
+              if (code !== 0) {
+                reject(new Error(`Proceso finalizó con código ${code}`));
+              } else {
+                const jsonFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
+                const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf8'));
+                processJsonData(jsonData, channel_id, successCount, failureCount)
+                  .then((counts) => {
+                    successCount = counts.successCount;
+                    failureCount = counts.failureCount;
+                    resolve();
+                  })
+                  .catch((err) => {
+                    failureCount++;
+                    console.error(`Error procesando JSON para el canal ${channel_id}:`, err);
+                    reject();
+                  });
+              }
+            });
+          });
+        } else {
+          console.error(`Script ${file_format_type}.js no encontrado`);
+          failureCount++;
+        }
+      }
+    } else {
+      console.error('Error en la respuesta del API');
+      failureCount++;
+    }
   } catch (error) {
     console.error(`Error procesando los archivos: ${error?.message || error}`);
     failureCount++;
@@ -203,7 +229,6 @@ async function postProgramData(data) {
   }
 }
 
-// Función auxiliar para registrar los resultados
 function logResults(successCount, failureCount) {
   const logMessage = `Llamadas exitosas: ${successCount}, Llamadas fallidas: ${failureCount}\n`;
   const logFilePath = path.join(__dirname, 'service_call_log.txt');
