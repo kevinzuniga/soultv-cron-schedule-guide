@@ -1,4 +1,0 @@
-Archivo JSON generado en tmp/programmes.json
-Resultados registrados en el archivo de log.
-Archivo JSON generado en tmp/programmes.json
-Resultados registrados en el archivo de log.

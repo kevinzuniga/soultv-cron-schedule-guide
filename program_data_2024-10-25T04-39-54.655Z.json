@@ -1,0 +1,117 @@
+[
+  {
+    "channel_id": 92,
+    "name": "Milagre na Cela 7",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "24-10-2024",
+        "end_date": "24-10-2024",
+        "available": true,
+        "time_start": "15:09",
+        "time_end": "17:21",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "O Pistoleiro",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "24-10-2024",
+        "end_date": "24-10-2024",
+        "available": true,
+        "time_start": "17:21",
+        "time_end": "18:43",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Filme: Cães de Guerra",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "24-10-2024",
+        "end_date": "24-10-2024",
+        "available": true,
+        "time_start": "18:43",
+        "time_end": "20:18",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "San Andreas",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "24-10-2024",
+        "end_date": "24-10-2024",
+        "available": true,
+        "time_start": "20:18",
+        "time_end": "22:12",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Sniper Americano",
+    "description": "",
+    "schedule": [
+      {
+        "start_date": "24-10-2024",
+        "end_date": "24-10-2024",
+        "available": true,
+        "time_start": "22:12",
+        "time_end": "00:25",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  }
+]

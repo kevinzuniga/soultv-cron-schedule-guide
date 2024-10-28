@@ -202,3 +202,17 @@ Llamadas exitosas: 2801, Llamadas fallidas: 0
 Llamadas exitosas: 2801, Llamadas fallidas: 0
 Llamadas exitosas: 2801, Llamadas fallidas: 0
 Llamadas exitosas: 2801, Llamadas fallidas: 0
+Duración de la llamada: 0.399 segundos, Programas enviados: 5
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 2801, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 2
+Llamadas exitosas: 0, Llamadas fallidas: 2
+Duración de la llamada: 2.525 segundos, Programas enviados: 312
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 2.745 segundos, Programas enviados: 312
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 3.345 segundos, Programas enviados: 312
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 4.33 segundos, Programas enviados: 222
+Llamadas exitosas: 0, Llamadas fallidas: 1
