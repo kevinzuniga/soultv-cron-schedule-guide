@@ -71,13 +71,13 @@ async function processJsonData(jsonData, successCount, failureCount) {
   const payloadList = [];
 
   for (const program of jsonData) {
-    const { channel_id, program: name, days } = program;
+    const { channel_id, program: name, description, days } = program;
     const schedules = [];
 
     for (const [date, timesArray] of Object.entries(days)) {
       const dayOfWeek = new Date(date.split('/').reverse().join('-')).getDay();
 
-      timesArray.forEach(({ startTime, stopTime, genre, classification, description }) => {
+      timesArray.forEach(({ startTime, stopTime }) => {
         let adjustedStopTime = stopTime;
         let endDate = date;
 
@@ -112,9 +112,6 @@ async function processJsonData(jsonData, successCount, failureCount) {
             available: true,
             time_start: formatTime(startTime),
             time_end: formatTime(adjustedStopTime),
-            genre,
-            classification,
-            description,
             days: daysObj
           };
 
@@ -127,6 +124,7 @@ async function processJsonData(jsonData, successCount, failureCount) {
       payloadList.push({
         channel_id,
         name,
+        description,
         schedule: schedules
       });
     }

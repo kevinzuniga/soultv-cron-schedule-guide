@@ -216,3 +216,23 @@ Duración de la llamada: 3.345 segundos, Programas enviados: 312
 Llamadas exitosas: 0, Llamadas fallidas: 1
 Duración de la llamada: 4.33 segundos, Programas enviados: 222
 Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 6.035 segundos, Programas enviados: 222
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 3.036 segundos, Programas enviados: 222
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 3.048 segundos, Programas enviados: 222
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 3.436 segundos, Programas enviados: 222
+Duración de la llamada: 3.467 segundos, Programas enviados: 222
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 7.257 segundos, Programas enviados: 222
+Duración de la llamada: 5.299 segundos, Programas enviados: 222
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 1.281 segundos, Programas enviados: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 6.649 segundos, Programas enviados: 222
+Duración de la llamada: 26.311 segundos, Programas enviados: 222
+Llamadas exitosas: 1, Llamadas fallidas: 0

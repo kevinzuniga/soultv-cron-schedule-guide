@@ -34,7 +34,6 @@ function formatXmlTime(xmlTime) {
   const minute = xmlTime.substring(10, 12);  // Minutos
   const second = xmlTime.substring(12, 14);  // Segundos
 
-  // Retornar en el formato 'YYYY-MM-DD HH:MM:SS'
   return {
     date: `${day}/${month}/${year}`,             // Fecha en formato 'DD/MM/YYYY'
     time: `${hour}:${minute}:${second}`          // Hora en formato 'HH:MM:SS'
@@ -62,8 +61,6 @@ fs.readFile(filePath, (err, data) => {
 
       const title = program.title[0]._ || '';                                        // Título del programa
       const description = program.desc ? program.desc[0]._ : '';                     // Descripción del programa
-      const genre = program.category ? program.category[0]._ : '';                   // Género del programa
-      const classification = program.rating ? program.rating[0].value[0] : '';       // Clasificación del programa
 
       return [{
         channel_id: channelId,  // Guardar SoulTVID como channel_id
@@ -71,8 +68,6 @@ fs.readFile(filePath, (err, data) => {
         programDate,
         startTime,
         stopTime,
-        genre,
-        classification,
         description
       }];
     });
@@ -84,6 +79,7 @@ fs.readFile(filePath, (err, data) => {
         programEntry = {
           channel_id: program.channel_id,
           program: program.title,
+          description: program.description || "",  // Mover descripción al nivel superior
           days: {}
         };
         acc.push(programEntry);
@@ -95,10 +91,7 @@ fs.readFile(filePath, (err, data) => {
       }
       programEntry.days[program.programDate].push({
         startTime: program.startTime,
-        stopTime: program.stopTime,
-        genre: program.genre,
-        classification: program.classification,
-        description: program.description
+        stopTime: program.stopTime
       });
 
       return acc;

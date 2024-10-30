@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="http://www.reportv.com.ar/" source-info-name="ReporTv" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+  <channel id="5029">
+    <display-name>REDE BRASIL</display-name>
+  </channel>
+  <programme start="20241021004000 -0000" stop="20241021013000 -0000" channel="5029">
+    <title lang="pt">Terra de gigantes</title>
+    <desc lang="pt">Quando a nave espacial Spindrift é atingida por uma misteriosa névoa e uma tempestade magnética, a tripulação acaba em uma Terra alternativa povoada por gigantes doze vezes maiores do que eles.</desc>
+    <credits>
+      <director>Harry Harris</director>
+      <director>Irwin Allen</director>
+      <director>Harmon Jones</director>
+      <actor>Don Matheson</actor>
+      <actor>Heather Young</actor>
+      <actor>Paul Fix</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção Científica</category>
+    <rating system="MPAA">
+      <value>PG</value>
+    </rating>
+  </programme>
+</tv>
