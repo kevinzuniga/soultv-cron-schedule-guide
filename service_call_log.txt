@@ -236,3 +236,11 @@ Llamadas exitosas: 0, Llamadas fallidas: 1
 Duración de la llamada: 6.649 segundos, Programas enviados: 222
 Duración de la llamada: 26.311 segundos, Programas enviados: 222
 Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 17.702 segundos, Programas enviados: 222
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 3.67 segundos, Programas enviados: 51
+Duración de la llamada: 2.08 segundos, Programas enviados: 30
+Llamadas exitosas: 2, Llamadas fallidas: 0
+Duración de la llamada: 0.996 segundos, Programas enviados: 12
+Duración de la llamada: 2.225 segundos, Programas enviados: 63
+Llamadas exitosas: 2, Llamadas fallidas: 0

@@ -1,11 +1,15 @@
 # "app" enables Serverless Framework Dashboard features and sharing them with other Services.
-app: cron-schedule-guide
+# app: cron-schedule-guide
 # "service" is the name of this project. This will also be added to your AWS resource names.
 service: cron-schedule-guide
 
+# soultv-carlos
 provider:
   name: aws
   runtime: nodejs20.x
+  region: us-east-1
+  profile: soultv-carlos
+  stage: dev
   iamRoleStatements:
     - Effect: "Allow"
       Action:
@@ -14,8 +18,21 @@ provider:
       Resource: "*" # Allow all S3 buckets
 
 functions:
-  processFiles:
-    handler: handler.processFiles
+  # processFiles:
+  #   handler: handler.processFiles
+  #   events:
+  #     - schedule:
+  #         rate: rate(1 minute)
+
+  processFilesProd:
+    handler: handler_prod.processFiles
     events:
-      - schedule:
-          rate: rate(1 minute)
+      - http:
+          path: process-file-prod
+          method: get
+  processFilesAll:
+    handler: handler_all.processFiles
+    events:
+      - http:
+          path: process-file-all
+          method: get
