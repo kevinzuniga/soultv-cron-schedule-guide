@@ -3,24 +3,6 @@ const path = require('path');
 const xml2js = require('xml2js');
 const parser = new xml2js.Parser();
 
-// Mapeo de XMLID a SoulTVID
-const channelMapping = {
-  '5029': '245',
-  '5500': '99',
-  '5770': '269',
-  '5788': '218',
-  '6130': '126',
-  '6313': '182',
-  '7140': '112',
-  '7893': '92',
-  '8345': '98',
-  '8372': '240',
-  '8542': '261',
-  '8912': '74',
-  '8917': '163',
-  '8922': '127'
-};
-
 const filePath = process.argv[2];
 console.log('filePath', filePath);
 const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
@@ -51,24 +33,22 @@ fs.readFile(filePath, (err, data) => {
       const { date: programDate, time: startTime } = formatXmlTime(program.$.start); // Formatear fecha y hora de inicio
       const { time: stopTime } = formatXmlTime(program.$.stop);                      // Formatear hora de fin
       const xmlChannelId = program.$.channel;                                        // ID del canal en XML
-
-      // Verificar si el canal está en el mapeo
-      const channelId = channelMapping[xmlChannelId];
-      if (!channelId) {
-        console.log(`Channel ID ${xmlChannelId} no está en el mapeo.`);
-        return []; // Omitir este programa si el canal no está en el mapeo
-      }
+      
+      // Verificación de xmlChannelId
+      console.log('xmlChannelId:', xmlChannelId);
 
       const title = program.title[0]._ || '';                                        // Título del programa
       const description = program.desc ? program.desc[0]._ : '';                     // Descripción del programa
+      const image_url = program.icons && program.icons[0].$.src ? program.icons[0].$.src : ''; // URL de la imagen
 
       return [{
-        channel_id: channelId,  // Guardar SoulTVID como channel_id
+        channel_id: xmlChannelId,  // Usar xmlChannelId directamente como channel_id
         title,
         programDate,
         startTime,
         stopTime,
-        description
+        description,
+        image_url  // Añadir campo de imagen al resultado
       }];
     });
 
@@ -80,6 +60,7 @@ fs.readFile(filePath, (err, data) => {
           channel_id: program.channel_id,
           program: program.title,
           description: program.description || "",  // Mover descripción al nivel superior
+          image_url: program.image_url || "",  // Mover image_url al nivel superior
           days: {}
         };
         acc.push(programEntry);

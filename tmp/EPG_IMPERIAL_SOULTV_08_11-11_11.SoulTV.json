@@ -1,0 +1,716 @@
+[
+  {
+    "program": "Madagascar",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "11:07:44",
+          "stopTime": "12:33:42",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Em Madagascar, quatro animais do zoológico de Nova York são acidentalmente enviados para a selva africana, onde precisam aprender a sobreviver longe do conforto da vida na cidade. Juntos, eles embarcam em uma aventura repleta de diversão e descobertas."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Madagascar 2: A Grande Escapada",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "12:33:42",
+          "stopTime": "14:03:06",
+          "genre": "Animação/Comédia",
+          "classification": "Livre",
+          "description": "Após um acidente com o avião que os levava de volta para Nova York, Alex, Marty, Melman e Gloria acabam na selva da África. Lá, reencontram seus amigos do zoológico de Madagascar e juntos embarcam em uma nova aventura cheia de desafios e diversão."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Madagascar 3 Os Procurados",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "14:03:06",
+          "stopTime": "15:36:30",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Alex, Marty, Gloria e Melman estão tentando voltar para Nova York, mas acabam se escondendo em um circo em Monte Carlo. Os animais se juntam ao circo para conseguir retornar para casa, mas são perseguidos por uma dedicada agente de controle de animais."
+        }
+      ]
+    }
+  },
+  {
+    "program": "A Bíblia S01E09",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "15:37:15",
+          "stopTime": "16:25:24",
+          "genre": "Drama",
+          "classification": "12",
+          "description": "Neste episódio da série \"A Bíblia\", é retratada a história de Abraão, um homem escolhido por Deus para ser o pai de uma nação. A narrativa aborda seus desafios, sacrifícios e a promessa divina de uma descendência numerosa. A história revela a fé e a obediência de Abraão, bem como a fidelidade de Deus em cumprir Suas promessas."
+        }
+      ]
+    }
+  },
+  {
+    "program": "The Chosen S03E01",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "16:25:24",
+          "stopTime": "17:26:45",
+          "genre": "Drama",
+          "classification": "14",
+          "description": "No terceiro episódio da terceira temporada da aclamada série \"The Chosen\", Jesus continua sua jornada de ensinamentos e milagres, conquistando mais seguidores e enfrentando novos desafios. Neste episódio em particular, ele escolhe seus doze discípulos, incluindo Pedro, Mateus e Maria Madalena, e começa a prepará-los para a missão que terão pela frente. Enquanto isso, o poderoso império romano começa a perceber a influência crescente de Jesus e decide agir. Será que seus seguidores serão capazes de continuar sua missão diante das crescentes ameaças? Acompanhe emocionantes novos episódios de \"The Chosen\" e mergulhe na vida e nos ensinamentos de Jesus de Nazaré."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Rastros de Ódio",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "17:27:07",
+          "stopTime": "19:25:51",
+          "genre": "Western",
+          "classification": "14",
+          "description": "Em \"Rastros de Ódio\", um homem busca vingança pela morte de sua família, perseguindo os responsáveis em uma jornada épica pelo oeste selvagem."
+        }
+      ]
+    }
+  },
+  {
+    "program": "MEGA TUBARÃO",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "19:26:24",
+          "stopTime": "21:12:13",
+          "genre": "Ação, Ficção Científica",
+          "classification": "14",
+          "description": "Em \"MEGA TUBARÃO\", um tubarão pré-histórico gigante é descoberto nas profundezas do oceano e ameaça a vida marinha e humana. Um experiente mergulhador e uma equipe de especialistas devem correr contra o tempo para detê-lo antes que provoque uma catástrofe global."
+        }
+      ]
+    }
+  },
+  {
+    "program": "MEGA TUBARÃO 2",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "21:12:13",
+          "stopTime": "23:08:21",
+          "genre": "Ação/Aventura",
+          "classification": "14",
+          "description": "Após sobreviver ao encontro com o terrível Megalodon, Jonas Taylor é convocado para uma nova missão quando um tubarão ainda maior é descoberto nas profundezas do oceano. Agora, ele terá que enfrentar seus medos mais uma vez para salvar a humanidade dessa nova ameaça marinha."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Carga Explosiva",
+    "days": {
+      "08/11/2024": [
+        {
+          "startTime": "23:08:22",
+          "stopTime": "00:40:31",
+          "genre": "Ação",
+          "classification": "16",
+          "description": "Frank Martin é um ex-militar que se tornou um transportador de mercadorias ilegais, sem fazer perguntas. Durante uma de suas missões, ele descobre que está transportando uma jovem sequestrada e decide enfrentar seus empregadores para salvá-la."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Carga Explosiva 2",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "00:40:31",
+          "stopTime": "02:08:09",
+          "genre": "Ação",
+          "classification": "16",
+          "description": "Frank Martin é um transportador de mercadorias valiosas, que não faz perguntas sobre o que está transportando. Mas quando é contratado por um misterioso cliente e é obrigado a aceitar uma carga, ele se vê envolvido em uma perigosa conspiração internacional. Agora, ele terá que usar todas as suas habilidades para sobreviver e desvendar a trama antes que seja tarde demais."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Carga Explosiva 3",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "02:08:10",
+          "stopTime": "03:52:08",
+          "genre": "Ação",
+          "classification": "16",
+          "description": "Frank Martin é um ex-agente especial que agora trabalha como transportador de mercadorias. Em sua terceira missão, ele é contratado para transportar uma enigmática mulher chamada Valentina. Logo, Frank descobre que está no meio de um perigoso jogo de traição e intriga, e terá que usar todas as suas habilidades para sobreviver."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Carga Explosiva O Legado",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "03:52:08",
+          "stopTime": "05:28:06",
+          "genre": "Ação",
+          "classification": "14",
+          "description": "Arthur Bishop é um assassino de elite com um código de ética que o obriga a nunca matar inocentes. Quando seu mentor é assassinado, ele é forçado a viajar pelo mundo para completar três assassinatos impossíveis e fazer com que pareçam acidentes."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Stakeout Tocaia",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "05:28:07",
+          "stopTime": "07:25:26",
+          "genre": "Comédia policial",
+          "classification": "16",
+          "description": "Dois detetives passam a maior parte do tempo dentro de um carro em uma operação de vigilância, enquanto investigam um caso de roubo. As coisas se complicam quando um deles se apaixona pela mulher que estão investigando."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Uma Nova Tocaia",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "07:25:26",
+          "stopTime": "09:14:03",
+          "genre": "Suspense",
+          "classification": "12",
+          "description": "Um homem comum é levado para uma jornada inimaginável quando tem um encontro próximo com uma nave alienígena. Conforme ele busca descobrir a verdade por trás do incidente, ele acaba se envolvendo em uma perigosa conspiração governamental."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Batman: Mistério da Mulher-Morcego",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "09:14:36",
+          "stopTime": "10:29:25",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Batman investiga uma série de roubos realizados por uma misteriosa Mulher-Morcego, enquanto enfrenta o desafio de seus sentimentos por ela."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Batman Contra o Capuz Vermelho",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "10:29:25",
+          "stopTime": "11:45:15",
+          "genre": "Animação",
+          "classification": "14",
+          "description": "Quando um novo criminoso conhecido como Capuz Vermelho começa a causar estragos em Gotham City, Batman se vê em um dilema ao confrontar um segredo do seu passado que retorna para assombrá-lo. Enquanto lida com a ameaça do Capuz Vermelho, Batman terá que enfrentar suas próprias escolhas e lidar com as consequências de seus atos."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Animação Batman - O Cavaleiro Das Trevas",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "11:45:16",
+          "stopTime": "13:01:38",
+          "genre": "Animação, Ação",
+          "classification": "16",
+          "description": "Os eventos do filme mostram um Batman aposentado, que retorna para combater o crime em Gotham City, enfrentando o retorno do Coringa e a ascensão de um novo grupo de criminosos."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Batman - O Cavaleiro Das Trevas.P2",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "13:01:38",
+          "stopTime": "14:17:27",
+          "genre": "Animação",
+          "classification": "16",
+          "description": "Após a morte do promotor Harvey Dent, Batman assume a culpa pelos crimes cometidos por Dent para proteger sua reputação. Mas logo ele se vê confrontado por uma misteriosa vilã conhecida como Mulher-Gato, que está envolvida em um plano sinistro contra Gotham City."
+        }
+      ]
+    }
+  },
+  {
+    "program": "O Filho Do Batman",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "14:17:28",
+          "stopTime": "15:31:37",
+          "genre": "Animação",
+          "classification": "12",
+          "description": "Damian, filho do Batman, enfrenta desafios ao descobrir sua verdadeira identidade e decidir se seguirá os passos do pai como um vigilante."
+        }
+      ]
+    }
+  },
+  {
+    "program": "A Bíblia S01E10",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "15:32:22",
+          "stopTime": "16:20:45",
+          "genre": "Drama",
+          "classification": "14",
+          "description": "Neste episódio, a trajetória de Jesus chega ao seu ponto culminante com a crucificação e ressurreição, trazendo esperança e salvação para a humanidade. Enquanto isso, o Apóstolo João testemunha o poder e a glória de Deus através dos milagres e ensinamentos do Filho de Deus."
+        }
+      ]
+    }
+  },
+  {
+    "program": "The Chosen S03E02",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "16:20:45",
+          "stopTime": "17:31:02",
+          "genre": "Drama",
+          "classification": "14",
+          "description": "Neste episódio, Jesus continua a escolher seus discípulos e ensina importantes lições de fé e amor, enquanto enfrenta a oposição das autoridades religiosas da época."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Smallville S01E03 - Cabeça Quente",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "17:31:35",
+          "stopTime": "18:15:46",
+          "genre": "Drama, Ação",
+          "classification": "14",
+          "description": "No terceiro episódio da primeira temporada de Smallville, intitulado \"Cabeça Quente\", Clark Kent descobre mais sobre seus poderes enquanto tenta lidar com as emoções e desafios do ensino médio. Ao mesmo tempo, investiga um incêndio suspeito na cidade, o que o leva a um confronto com uma figura misteriosa."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Smallville S01E04 - Raios X",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "18:15:47",
+          "stopTime": "19:00:17",
+          "genre": "Drama",
+          "classification": "12",
+          "description": "Clark vê através das pessoas após ser exposto à kryptonita, o que o leva a descobrir segredos dos habitantes de Smallville."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Blindspot.S01E09",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "19:00:17",
+          "stopTime": "19:43:17",
+          "genre": "Drama, Mistério",
+          "classification": "14",
+          "description": "Enquanto a equipe investiga um tatuagem ligada a uma operação de tráfico de pessoas, Jane descobre um segredo sobre Weller que a deixa abalada."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Blindspot.S01E10",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "19:43:18",
+          "stopTime": "20:24:44",
+          "genre": "Suspense",
+          "classification": "16",
+          "description": "Quando uma mulher misteriosa é encontrada nua e coberta de tatuagens na Times Square, a equipe do FBI descobre que cada marca no corpo dela revela um crime a ser investigado, levando-os a desvendar uma conspiração de escala global."
+        }
+      ]
+    }
+  },
+  {
+    "program": "S02E06 Transporter",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "20:24:44",
+          "stopTime": "21:10:26",
+          "genre": "Ação",
+          "classification": "16",
+          "description": "Neste episódio da série \"Transporter\", Frank Martin é contratado para transportar um misterioso pacote que o leva a um perigoso jogo de gato e rato com criminosos implacáveis."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Transporter_Carga Explosiva S02E07",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "21:10:26",
+          "stopTime": "21:55:20",
+          "genre": "Ação",
+          "classification": "16",
+          "description": "Neste episódio, Frank Martin é contratado para transportar uma carga misteriosa que se revela explosiva. Envolvido em uma trama perigosa, ele terá que usar todas as suas habilidades para proteger a carga e sair ileso dessa missão de vida ou morte."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Coringa",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "21:55:20",
+          "stopTime": "23:57:08",
+          "genre": "Drama/Thriller",
+          "classification": "16",
+          "description": "Arthur Fleck é um comediante de stand-up que enfrenta diversas dificuldades na vida. Desprezado pela sociedade e constantemente rejeitado, ele acaba se transformando no icônico vilão conhecido como Coringa. O filme explora a jornada de Arthur até se tornar o arqui-inimigo do Batman, mostrando sua luta contra o sistema e a perda da própria sanidade."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Legado de Mentiras",
+    "days": {
+      "09/11/2024": [
+        {
+          "startTime": "23:57:09",
+          "stopTime": "01:38:47",
+          "genre": "Suspense",
+          "classification": "16",
+          "description": "Um ex-agente secreto entra em ação quando seu filho é acusado de um crime que ele não cometeu, mergulhando em um mundo de traições e segredos perigosos."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Crime Sem Saída",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "01:38:47",
+          "stopTime": "03:13:07",
+          "genre": "Ação, Drama",
+          "classification": "14",
+          "description": "Um detetive da polícia de Nova York recebe um alerta de bomba anônimo em sua área de trabalho. Com o tempo correndo, ele precisa correr contra o relógio para encontrar uma maneira de desarmar a bomba e capturar o criminoso responsável."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Vingança a Sangue-Frio",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "03:13:08",
+          "stopTime": "05:12:08",
+          "genre": "Ação, Suspense",
+          "classification": "16",
+          "description": "Nels Coxman, um tranquilo arador de neve, vê sua vida mudar totalmente quando seu filho é morto por um poderoso traficante de drogas. Determinado a se vingar, ele parte em busca de justiça, colocando em prática suas habilidades de combate e deixando um rastro de sangue no caminho."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Filme: Golpe de Risco",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "05:12:08",
+          "stopTime": "06:54:34",
+          "genre": "Suspense",
+          "classification": "16",
+          "description": "Em Golpe de Risco, um vigarista profissional se envolve em um perigoso jogo de manipulação e traição ao tentar realizar o golpe perfeito. Enquanto tenta enganar as autoridades e seus próprios comparsas, ele percebe que nada é o que parece e que a ganância pode custar caro."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Midway: Batalha em Alto Mar",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "06:54:35",
+          "stopTime": "09:06:28",
+          "genre": "",
+          "classification": "14",
+          "description": "Guerra"
+        }
+      ]
+    }
+  },
+  {
+    "program": "O Príncipe do Egito",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "09:07:01",
+          "stopTime": "10:45:42",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "O filme conta a história de Moisés, adotado pelo faraó do Egito, que descobre sua verdadeira identidade e decide liderar seu povo, os hebreus, para a liberdade. Uma emocionante animação que aborda temas como fé, coragem e justiça."
+        }
+      ]
+    }
+  },
+  {
+    "program": "A Estrela de Belém",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "10:45:42",
+          "stopTime": "12:05:34",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "A história do nascimento de Jesus Cristo é contada de uma forma diferente nesta animação, que narra a jornada de um pequeno burro chamado Bo e seus amigos na busca pela Estrela de Belém. Juntos, eles enfrentam diversos desafios e vivem grandes aventuras, enquanto descobrem o verdadeiro significado do Natal."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Superbook",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "12:05:35",
+          "stopTime": "12:29:35",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Superbook conta a história de dois amigos, Chris e Joy, que junto com o robô Gizmo são transportados para diferentes eventos da Bíblia através de um livro mágico."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Superbook.S01E02",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "12:29:36",
+          "stopTime": "12:53:39",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Neste episódio, os amigos Chris, Joy e Gizmo viajam no tempo até a época de Moisés e presenciam os acontecimentos da história da Páscoa."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Superbook.S01E03",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "12:53:39",
+          "stopTime": "13:21:10",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Neste episódio de Superbook, os amigos Chris, Joy e Gizmo viajam no tempo para encontrar o profeta Elias. Eles testemunham milagres e aprendem sobre a importância da fé e da obediência a Deus."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Superbook.S01E04",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "13:21:10",
+          "stopTime": "13:45:11",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Neste episódio emocionante, os personagens principais viajam de volta no tempo para encontrar algumas das figuras mais influentes da Bíblia e aprender valiosas lições de vida."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Superbook.S01E05",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "13:45:12",
+          "stopTime": "14:12:42",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Neste episódio de Superbook, Chris, Joy e Gizmo viajam no tempo até o Jardim do Éden, onde testemunham a desobediência de Adão e Eva e aprendem sobre as consequências do pecado. Eles descobrem a importância de seguir as instruções de Deus e a necessidade de arrependimento e perdão."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Superbook: A Grande Queda",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "14:12:43",
+          "stopTime": "14:44:22",
+          "genre": "Animação",
+          "classification": "Livre",
+          "description": "Neste episódio, os personagens viajam de volta no tempo e testemunham o momento da grande queda de Adão e Eva no Jardim do Éden. Descubra como a desobediência levou a consequências desastrosas e como Deus mostrou sua graça mesmo diante da queda da humanidade."
+        }
+      ]
+    }
+  },
+  {
+    "program": "A História de Moisés",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "14:44:23",
+          "stopTime": "15:11:47",
+          "genre": "Animação/Bíblico",
+          "classification": "Livre",
+          "description": "Neste episódio de Superbook, Chris, Joy e Gizmo viajam para o passado e testemunham a incrível história de Moisés, desde seu nascimento até a libertação do povo hebreu da escravidão no Egito."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Quarto de Guerra",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "15:12:32",
+          "stopTime": "17:12:36",
+          "genre": "Drama",
+          "classification": "12",
+          "description": "Elizabeth e Tony formam um casal que aparenta ter tudo, mas enfrentam problemas em seu casamento. Em meio a crise, Elizabeth conhece uma mulher idosa que a desafia a batalhar por sua família através da oração, ensinando-a a utilizar um \"quarto de guerra\" para lutar pelas questões mais importantes de suas vidas."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Roubo Nas Alturas",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "17:13:08",
+          "stopTime": "18:57:41",
+          "genre": "Comédia",
+          "classification": "14",
+          "description": "Josh Kovacs é o responsável por um luxuoso condomínio de Nova York. Determinado dia, percebe que um dos inquilinos, Arthur Shaw, está tentando fugir de uma prisão domiciliar. Decidido a capturá-lo, Josh consegue reunir um grupo de amigos para elaborar um plano de roubo que envolve invadir a cobertura de Arthur. No entanto, as coisas não saem como planejado, e eles terão que lidar com diversas situações inusitadas para alcançar seu objetivo."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Moby Dick",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "18:57:41",
+          "stopTime": "22:04:19",
+          "genre": "Ação e Aventura",
+          "classification": "12",
+          "description": "Uma adaptação moderna do clássico de Herman Melville, onde a tripulação de um navio baleeiro é perseguida por uma baleia gigante obsessiva."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Os Agentes do Destino",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "22:04:19",
+          "stopTime": "23:50:09",
+          "genre": "Romance",
+          "classification": "12",
+          "description": "O destino de um homem é alterado por uma misteriosa organização que controla todas as ações das pessoas. Ele terá que lutar contra o que foi predestinado e escolher seu próprio caminho."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Os Especialistas",
+    "days": {
+      "10/11/2024": [
+        {
+          "startTime": "23:50:10",
+          "stopTime": "01:46:52",
+          "genre": "Ação",
+          "classification": "16",
+          "description": "Arthur Bishop é um assassino de elite com um código restrito e um talento único para eliminar alvos de alto perfil. Quando seu mentor é brutalmente assassinado, Bishop se junta a seu filho para vingar a morte e formam uma dupla letal."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Padre",
+    "days": {
+      "11/11/2024": [
+        {
+          "startTime": "01:46:52",
+          "stopTime": "03:14:19",
+          "genre": "Ação e Terror",
+          "classification": "16",
+          "description": "Em um mundo dominado por criaturas sobrenaturais, um padre renegado se une a uma guerreira para enfrentar uma poderosa entidade do mal que ameaça destruir a humanidade. Juntos, eles embarcam em uma jornada cheia de ação e terror para salvar a Terra do apocalipse iminente."
+        }
+      ]
+    }
+  },
+  {
+    "program": "12 Horas",
+    "days": {
+      "11/11/2024": [
+        {
+          "startTime": "03:14:19",
+          "stopTime": "04:49:11",
+          "genre": "Suspense",
+          "classification": "14",
+          "description": "Em \"12 Horas\", um homem comum se vê envolvido em uma conspiração internacional após testemunhar um assassinato durante um voo de avião. Agora ele tem apenas 12 horas para desvendar a verdade e salvar sua própria vida."
+        }
+      ]
+    }
+  },
+  {
+    "program": "A Perseguição",
+    "days": {
+      "11/11/2024": [
+        {
+          "startTime": "04:49:12",
+          "stopTime": "06:46:17",
+          "genre": "Ação, Aventura",
+          "classification": "14",
+          "description": "Um grupo de trabalhadores de uma companhia de petróleo, liderados por Ottway (Liam Neeson), precisa lutar pela sobrevivência após um acidente de avião em meio a uma região gelada e habitada por uma matilha de lobos selvagens. Enfrentando o frio extremo e a fome, eles precisam encontrar uma forma de escapar da morte iminente."
+        }
+      ]
+    }
+  },
+  {
+    "program": "Não é mais um Besteirol Americano",
+    "days": {
+      "11/11/2024": [
+        {
+          "startTime": "06:46:18",
+          "stopTime": "08:15:19",
+          "genre": "Comédia",
+          "classification": "16",
+          "description": "Um grupo de jovens decide armar uma festa de formatura inesquecível, repleta de situações hilariantes e malucas, em uma paródia aos filmes do gênero."
+        }
+      ]
+    }
+  }
+]

@@ -17,6 +17,9 @@ provider:
         - "s3:PutObject"
       Resource: "*" # Allow all S3 buckets
 
+plugins:
+  - serverless-offline
+
 functions:
   # processFiles:
   #   handler: handler.processFiles
