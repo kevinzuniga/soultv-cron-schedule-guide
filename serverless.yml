@@ -21,12 +21,16 @@ plugins:
   - serverless-offline
 
 functions:
-  # processFiles:
-  #   handler: handler.processFiles
-  #   events:
-  #     - schedule:
-  #         rate: rate(1 minute)
-
+  processFiles:
+    handler: handler_prod.processFiles
+    events:
+      - schedule:
+          rate: cron(0 13 * * ? *) # Todos los días a las 13:00 UTC, que es 8:00 a.m. hora de Perú
+  processFilesOnce:
+    handler: handler_prod.processFiles
+    events:
+      - schedule:
+          rate: cron(40 23 15 11 ? 2024) # 11:40 PM UTC, 15 de noviembre de 2024
   processFilesProd:
     handler: handler_prod.processFiles
     events:

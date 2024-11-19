@@ -64,7 +64,7 @@ workbook.SheetNames.forEach(sheetName => {
       return;
     }
 
-    const [startTime, duration, program, genre, classification, synopsis] = row.slice(1);
+    const [startTime, duration, program, description, classification, synopsis] = row.slice(1);
 
     // Convertir el tiempo de inicio y la duración en un formato adecuado
     if (typeof startTime === 'number' && typeof duration === 'number') {
@@ -116,6 +116,7 @@ workbook.SheetNames.forEach(sheetName => {
 // Convertir los datos a JSON
 const programsJson = Object.keys(programsByTitle).map(title => ({
   program: title,
+  description,
   days: programsByTitle[title]
 }));
 

@@ -79,13 +79,6 @@ if (startCol === -1) {
 
 const programsByTitle = {};
 
-// Función para convertir un tiempo en formato "HH:MM" a un valor decimal de 0 a 1
-function timeStringToDecimal(timeString) {
-  const [hours, minutes] = timeString.split(':').map(Number);
-  return (hours + minutes / 60) / 24;
-}
-
-// Procesar desde la fila donde se detectaron los datos correctos
 for (let i = 0; i < data.length; i++) {
   const row = data[i];
 
@@ -97,13 +90,9 @@ for (let i = 0; i < data.length; i++) {
 
   // Verificar que la fila tenga las columnas necesarias
   if (typeof row[startCol + 1] === 'string' && row[startCol + 1].includes(':')) {
-    // Convertir el formato "HH:MM" a un valor decimal de 0 a 1
     const timeString = row[startCol + 1];
     const decimalTime = timeStringToDecimal(timeString);
-
-    // Sobrescribir la celda con el valor decimal
     row[startCol + 1] = decimalTime;
-
     console.log(`Fila ${i}: tiempo en formato string convertido de "${timeString}" a decimal "${decimalTime}"`);
   }
 
@@ -112,7 +101,7 @@ for (let i = 0; i < data.length; i++) {
     continue;
   }
 
-  const [date, startTime, program, genre, classification] = row.slice(startCol, startCol + 5);
+  const [date, startTime, program, descriptionCandidate, classification] = row.slice(startCol, startCol + 5);
 
   // Saltar las filas que tienen "PROGRAMA" en la columna del nombre del programa
   if (program === 'PROGRAMA') {
@@ -123,16 +112,23 @@ for (let i = 0; i < data.length; i++) {
   const formattedDate = excelDateToString(date);
   const formattedStartTime = excelTimeToString(startTime);
 
-  // Asegurarse de que el tiempo de inicio sea válido (aunque sea 00:00)
   if (!formattedStartTime) {
     console.log(`Fila ${i} omitida: el tiempo de inicio no es válido`);
     continue;
   }
 
-  // Determinar el fin del programa
-  let formattedStopTime = '23:59:59'; // Por defecto, el fin del programa es el final del día
+  // Obtener la descripción de la misma fila o la siguiente
+  let description = descriptionCandidate || null;
+  if (!description && i + 1 < data.length) {
+    const nextRow = data[i + 1];
+    if (nextRow[startCol + 2]) {
+      description = nextRow[startCol + 2];
+    }
+  }
+
+  let formattedStopTime = '23:59:59'; // Por defecto, fin del programa al final del día
   const nextRow = data[i + 1];
-  
+
   if (nextRow) {
     const nextDate = nextRow[startCol];
     const nextStartTime = nextRow[startCol + 1];
@@ -146,21 +142,31 @@ for (let i = 0; i < data.length; i++) {
     }
   }
 
+  // Asegurarse de que el programa tiene un contenedor en `programsByTitle`
   if (!programsByTitle[program]) {
-    programsByTitle[program] = {};
+    programsByTitle[program] = {
+      description: description || "Sin descripción", // Asignar descripción aquí
+      days: {}
+    };
   }
-  if (!programsByTitle[program][formattedDate]) {
-    programsByTitle[program][formattedDate] = [];
+
+  // Asegurarse de que existe el día en el objeto del programa
+  if (!programsByTitle[program].days[formattedDate]) {
+    programsByTitle[program].days[formattedDate] = [];
   }
-  programsByTitle[program][formattedDate].push({
+
+  // Agregar la información del programa al día correspondiente
+  programsByTitle[program].days[formattedDate].push({
     startTime: formattedStartTime,
     stopTime: formattedStopTime
   });
 }
 
+// Convertir `programsByTitle` a un array para el JSON final
 const programsJson = Object.keys(programsByTitle).map(title => ({
   program: title,
-  days: programsByTitle[title]
+  description: programsByTitle[title].description, // Recuperar la descripción del objeto
+  days: programsByTitle[title].days
 }));
 
 // Guardar el JSON resultante en un archivo

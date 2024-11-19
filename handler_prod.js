@@ -96,10 +96,10 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
   const payloadList = [];
 
   for (const program of jsonData) {
-    const { program: name, days } = program;
+    const { program: name, description, days } = program; // Asegurarse de capturar `description`
     const schedules = [];
     for (const [date, times] of Object.entries(days)) {
-      console.log(`***Programa***: ${name} date: ${date}`, times);
+      console.log(`***Programa***: ${name}, date: ${date}`, times);
     }
 
     for (const [date, times] of Object.entries(days)) {
@@ -161,15 +161,13 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
       payloadList.push({
         channel_id,
         name,
-        description: "",
+        description: description || "Descripción no disponible", // Usar `description` del JSON o un valor por defecto
         schedule: schedules
       });
     }
   }
 
   if (payloadList.length > 0) {
-    // console.log('Payload preparado:', JSON.stringify(payloadList, null, 2)); // Verificación del payload
-
     const startTime = Date.now();
     try {
       await postProgramData(payloadList);
