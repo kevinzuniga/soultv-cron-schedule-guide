@@ -14,7 +14,7 @@ const ftpConfig = {
 
 // Nombre del archivo XML en el FTP y ruta local de descarga
 // const ftpFileName = '261channel20231112.xml';
-const ftpFileName = '20241113.xml';
+const ftpFileName = '20241209.xml';
 const localFilePath = path.join(__dirname, 'all.xml');  // Guardar localmente como 'all.xml'
 const scriptPath = path.join(__dirname, 'modeloxmlall.js');
 const domain = 'https://upload.soultv.com.br';

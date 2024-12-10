@@ -45,20 +45,16 @@ workbook.SheetNames.forEach(sheetName => {
   const [header, ...rows] = data;
 
   rows.forEach(row => {
-    // Verificar si la fila está vacía o si las columnas clave no tienen valores
     if (!row || row.length === 0 || !row[0]) {
-      // Saltar filas vacías
-      return;
+      return; // Saltar filas vacías
     }
 
     let date = row[0]; // La primera columna debe ser la fecha
 
-    // Verificar si la fecha está en formato numérico (como 45298)
     if (typeof date === 'number') {
-      date = excelDateToString(date); // Convertir el valor numérico de Excel a una cadena de fecha
+      date = excelDateToString(date);
     }
 
-    // Verificar si hay una fecha válida en la primera columna
     if (!date || typeof date !== 'string') {
       console.error(`Fila sin fecha válida: ${JSON.stringify(row)}`);
       return;
@@ -66,48 +62,39 @@ workbook.SheetNames.forEach(sheetName => {
 
     const [startTime, duration, program, description, classification, synopsis] = row.slice(1);
 
-    // Convertir el tiempo de inicio y la duración en un formato adecuado
     if (typeof startTime === 'number' && typeof duration === 'number') {
       let formattedStartTime = excelTimeToString(startTime);
       const totalDurationMinutes = Math.round(duration * 24 * 60);
       let [startHour, startMinute] = formattedStartTime.split(':').map(Number);
 
-      // Ajustar el startHour si es 24 para convertirla a 00
       if (startHour === 24) {
         startHour = 0;
       }
 
-      // Reconstruir el startTime en caso de que haya sido ajustado
       formattedStartTime = `${startHour.toString().padStart(2, '0')}:${startMinute.toString().padStart(2, '0')}:00`;
 
-      // Calcular la nueva hora y minutos al sumar la duración
       let stopHour = startHour + Math.floor((startMinute + totalDurationMinutes) / 60);
       let stopMinute = (startMinute + totalDurationMinutes) % 60;
 
-      // Ajustar el stopHour si es 24 para convertirla a 00
       if (stopHour === 24) {
         stopHour = 0;
       } else {
-        // Ajustar la hora si sobrepasa las 24 horas
         stopHour = stopHour % 24;
       }
 
       const formattedStopTime = `${stopHour.toString().padStart(2, '0')}:${stopMinute.toString().padStart(2, '0')}:00`;
 
-      // Si no existe el programa en el objeto, crearlo
       if (!programsByTitle[program]) {
-        programsByTitle[program] = {};
+        programsByTitle[program] = { description, days: {} }; // Incluye descripción aquí
       }
 
-      // Si no existe el día para ese programa, inicializarlo
-      if (!programsByTitle[program][date]) {
-        programsByTitle[program][date] = [];
+      if (!programsByTitle[program].days[date]) {
+        programsByTitle[program].days[date] = [];
       }
 
-      // Agregar el horario de inicio y fin al programa en ese día
-      programsByTitle[program][date].push({
+      programsByTitle[program].days[date].push({
         startTime: formattedStartTime,
-        stopTime: formattedStopTime
+        stopTime: formattedStopTime,
       });
     }
   });
@@ -116,8 +103,8 @@ workbook.SheetNames.forEach(sheetName => {
 // Convertir los datos a JSON
 const programsJson = Object.keys(programsByTitle).map(title => ({
   program: title,
-  description,
-  days: programsByTitle[title]
+  description: programsByTitle[title].description, // Accede a la descripción correctamente
+  days: programsByTitle[title].days,
 }));
 
 // Crear la carpeta de salida si no existe

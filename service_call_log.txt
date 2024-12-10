@@ -1,0 +1,21 @@
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 0
+Duración de la llamada: 6.869 segundos, Programas enviados: 237
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Duración de la llamada: 3.048 segundos, Programas enviados: 60
+Duración de la llamada: 3.819 segundos, Programas enviados: 45
+Duración de la llamada: 0.588 segundos, Programas enviados: 8
+Duración de la llamada: 3.492 segundos, Programas enviados: 41
+Llamadas exitosas: 4, Llamadas fallidas: 0
+Duración de la llamada: 7.755 segundos, Programas enviados: 237
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 11.167 segundos, Programas enviados: 328
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Duración de la llamada: 3.211 segundos, Programas enviados: 41
+Duración de la llamada: 2.214 segundos, Programas enviados: 46
+Duración de la llamada: 0.718 segundos, Programas enviados: 11
+Llamadas exitosas: 3, Llamadas fallidas: 1
+Duración de la llamada: 8.196 segundos, Programas enviados: 327
+Llamadas exitosas: 1, Llamadas fallidas: 0
