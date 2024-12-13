@@ -1,0 +1,1836 @@
+[
+  {
+    "channel_id": 73,
+    "name": "CINE PRIME",
+    "description": "Sessão de cinema. ",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "03:00",
+        "time_end": "05:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "CINE MEIO",
+    "description": "Sessão de cinema com os melhores filmes clássicos da tv.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "03:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "21:30",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "A VOZ DO POVO",
+    "description": "A Voz do Povo do rádio para a TV.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "BOM DIA, NACIONAL",
+    "description": "O BOM DIA MN é assim que de segunda a sexta acordamos milhares de espectadores com um apanhado das notícias que vão nortear os acontecimentos nas próximas horas. Política, policial, economia, negócio, esporte e muito mais pra você se situar com a melhor informação. Muita informação com uma pitada de entretenimento, artes, cultura, gastronomia, dicas e prestação de serviço à comunidade.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "08:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "REVISTA ",
+    "description": "Com público cativo, o REVISTA MEIO NORTE traz logo cedo, um mix dos assuntos atuais com uma abordagem descontraída. Dicas de maquiagem, culinária e moda dividem espaço com direitos da mulher, mercado de trabalho e vários outros temas do universo feminino.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "O 10 DO ESPORTE – KAJURU",
+    "description": "A análise esportiva com a opinião de Jorge Kajuru. ",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "RONDA",
+    "description": "O campeão de audiência na tela da Rede Meio. É o Ronda. Uma das mais fortes marcas da história da TV Meio. Todas as notícias do universo policial, do Brasil e do mundo.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "11:35",
+        "time_end": "13:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "11:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "11:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "11:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "11:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "AGORA BRASIL",
+    "description": "Apresentado por Amadeu Campos e Liana Paiva o programa Agora traz as principais notícias do dia, com matérias e reportagens que abordam temas relevantes para a sociedade piauiense. Com intensa participação popular pelo whatsapp, o jornalístico é referência no horário, e traz ainda o quadro JOGO DO PODER, líder de audiência, onde os comentaristas Arimatéa Carvalho, Ananias Ribeiro, Samantha Cavalca e Efrém Ribeiro debatem assuntos polêmicos.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:20",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PROGRAMA DA TARDE",
+    "description": "Tudo o que rola nos bastidores das novelas e programas de TV, novos trabalhos, romances e curiosidades sobre o cotidiano dos famosos, nada sobre eles escapa do programa. Para ﬁcarem bem informados sobre a vida e a carreira do seu artista favorito, os fãs já sabem o que assistir.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PATRULHA DO COXINHA",
+    "description": "Acompanhe aventuras cheios de humor e piadas com Coxinha.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PATRULHA ",
+    "description": "Às 19h, Luiz Fortes chega para o Piauí com a cobertura regional das notícias policiais, cobrindo e acompanhando casos de grande repercussão, o desfecho dos fatos, sempre buscando a exclusividade e a verdade em primeiro lugar.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "20:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PROGRAMA CIÊNCIA DA POLÍTICA",
+    "description": "Uma análise completa do cenário político nacional. ",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "20:20",
+        "time_end": "21:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "20:20",
+        "time_end": "21:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "20:20",
+        "time_end": "21:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "20:20",
+        "time_end": "21:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "NA TELA COM VICENTE DATENTA",
+    "description": "Na Tela Urgente com Vicente Datena' traz as notícias urgentes e a sua opinião sobre os últimos acontecimentos!",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "ESPAÇO GOURMET",
+    "description": "O ESPAÇO GOURMET é o guia gastronômico mais saboroso da TV. Lia Formiga recebe renomados chefes de cozinha, convidados, e desvendam os mistérios da culinária com receitas simples e rápidas, e menus mais elaborados. Usando referências de cozinhas de várias partes do mundo.",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "FALANDO NISSO",
+    "description": "Um programa com foco, clareza, curiosidade e desenvoltura,\ncom a riqueza de detalhes que uma boa entrevista é capaz de\noferecer. Apresentado por Maia Veloso.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "00:55",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "CANAL SAÚDE",
+    "description": "Acompanhe alguns temas relacionados à saúde.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "03:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "BUTIQUIM ",
+    "description": "O Programa Butiquim é uma atração para quem quer curtir muita música e conversas com convidados especiais. Um time bem humorado vai garantir muitas risadas e uma festa animada.",
+    "schedule": [
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "20:20",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "TRÊS CONTRA UM",
+    "description": "Pod Cast. ",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "03:00",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "99 SHOW",
+    "description": "Programa 99 show",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "05:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PAINEL",
+    "description": "Uma revista que apresenta o mundo do campo.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "06:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "06:30",
+        "time_end": "07:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "TELELECO",
+    "description": "O programa Teleleco transforma as manhãs de domingo da criançada em pura alegria e diversão com o palhaço mais famoso engraçado do meio norte do país: Leleco.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "06:50",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "RONDA DO POVÃO",
+    "description": "O programa presta um serviço de utilidade pública e faz o elo entre os brasileiros e as autoridades com bom humor e irreverência.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "FEED MEIO",
+    "description": "O Feed Meio aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "BRASIL 40º GRAUS",
+    "description": "Acompanhe as últimas notícias policiais, com muita participação dos repórteres nas ruas, além de grande interatividade com a população que estiver acompanhando de casa.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "SÉRIE: LOST ",
+    "description": "Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras. ",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "SERIE: SMALLVILE",
+    "description": "Uma interpretação da história de Superman mostra o jovem Clark Kent aprendendo a usar seus superpoderes em Kansas.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "19:50",
+        "time_end": "20:40",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "ARQUIVO X",
+    "description": "Agentes especiais do FBI investigam casos inexplicáveis conhecidos como Arquivo X. Embora o governo esteja convencido de que os relatórios sejam falsos, os detetives não descansam até que consigam provar a verdade.",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "20:40",
+        "time_end": "21:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "IEL CAST",
+    "description": "Iel Cast um jeito novo de bater um bom papo em formato podcast com Ieldyson Vasconselos e seus convidados. ",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "CINE BANG BANG",
+    "description": "Sessão de cinema. ",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PROGRAMAÇÃO RELIGIOSA",
+    "description": "Programação religiosa.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "06:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": " FAMÍLIA DINOSSAURO",
+    "description": "Um dinossauro, trabalhador operário, tenta lidar com o pavio curto do chefe da Corporação, para que ele possa colocar comida na mesa para sua família.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "07:20",
+        "time_end": "08:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "ANIME",
+    "description": "Sessão com os melhores animes da TV brasileira.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "16:20",
+        "time_end": "18:10",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "CINE NA TELA",
+    "description": "Sessão de cinema com os melhores filmes clássicos ssicos da tv.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "11:50",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "100 MILHAS",
+    "description": "Kerly Soares e Maria Elvira antecipam os lançamentos em modelos e novas tecnologias, visitam os maiores salões internacionais e fazem uma fusão entre o futuro e o passado resgatando a história da indústria automotiva.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "SÉRIE: ARQUIVO X",
+    "description": "Agentes especiais do FBI investigam casos inexplicáveis conhecidos como Arquivo X. Embora o governo esteja convencido de que os relatórios sejam falsos, os detetives não descansam até que consigam provar a verdade.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "18:10",
+        "time_end": "19:05",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "SÉRIE: LOST",
+    "description": "Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras.\n",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "19:05",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "DOC ",
+    "description": "Documentário",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 73,
+    "name": "PROGRAMA CAFE COM LEITE",
+    "description": "Programa de entrevistas.",
+    "schedule": [
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  }
+]

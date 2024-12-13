@@ -1,0 +1,5757 @@
+[
+  {
+    "channel_id": 238,
+    "name": "TERÇO MARIANO ",
+    "description": "Padre Reginaldo Manzotti",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "PROGRAMA DA LU ",
+    "description": "Lucilene Sousa",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "PALAVRA DE VIDA",
+    "description": "Pastor André ",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "NOSSA GENTE",
+    "description": "David Edson ",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "OLHO VIVO",
+    "description": "Petson Santos e José Dias Neto",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "VALE NEWS ",
+    "description": "Cláudio Nepó ",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "RADAR CIDADES",
+    "description": "Dida Gonçalves",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "HORA H",
+    "description": "Heron Cid e Wallison Bezerra ",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "SANTA MISSA",
+    "description": "Padre Reginaldo Manzotti",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "15-12-2024",
+        "end_date": "15-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "22-12-2024",
+        "end_date": "22-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-12-2024",
+        "end_date": "29-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "TERÇO MARIANO",
+    "description": "Padre Reginaldo Manzotti",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "CIDADE NOTÍCIA",
+    "description": "Levi Dantas ",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "EXPERIÊNCIA DE DEUS",
+    "description": "Padre Reginaldo Manzotti",
+    "schedule": [
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "VALE NEWS",
+    "description": "Cláudio Nepó",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "16-12-2024",
+        "end_date": "16-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "23-12-2024",
+        "end_date": "23-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-12-2024",
+        "end_date": "30-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "CIDADE NOTÍCIA ",
+    "description": "Levi Dantas",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "EXPERIÊNCIA DE DEUS ",
+    "description": "Padre Reginaldo Manzotti",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:40",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "VAQUEJADA NO SERTÃO",
+    "description": "Zé de Freitas ",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "SHOW DIÁRIO ",
+    "description": "Tiakinho Pancdão",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "17-12-2024",
+        "end_date": "17-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "24-12-2024",
+        "end_date": "24-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "PROGRAMA DA LU",
+    "description": "Lucilene Sousa",
+    "schedule": [
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "PROGRAMA DO XEXÉU",
+    "description": "Webster Fernandes  (Xexéu)",
+    "schedule": [
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "RADAR CIDADES ",
+    "description": "Dida Gonçalves",
+    "schedule": [
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "18-12-2024",
+        "end_date": "18-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "SHOW DIÁRIO",
+    "description": "Tikinho Pankdão",
+    "schedule": [
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-12-2024",
+        "end_date": "28-12-2024",
+        "available": true,
+        "time_start": "01:30",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "PROGRAMA DA LÚ",
+    "description": "Lucilene Sousa",
+    "schedule": [
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": " CÂMARA EM AÇÃO",
+    "description": "José Dias Neto",
+    "schedule": [
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "NOSSA GENTE ",
+    "description": "David Edson ",
+    "schedule": [
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "19-12-2024",
+        "end_date": "19-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "02:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "POD WIN CAST ",
+    "description": "Bertrand ",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "MENSAGEM DE ESPERANÇA",
+    "description": "Grupo Espírita Cireneus do Caminho",
+    "schedule": [
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "20-12-2024",
+        "end_date": "20-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-12-2024",
+        "end_date": "27-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "02:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "BIONEWS EM FOCO",
+    "description": "Alunos Faculdade Santa Maria",
+    "schedule": [
+      {
+        "start_date": "11-12-2024",
+        "end_date": "11-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-12-2024",
+        "end_date": "25-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-12-2024",
+        "end_date": "26-12-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "DIÁRIO NEWS",
+    "description": "Reportagens",
+    "schedule": [
+      {
+        "start_date": "14-12-2024",
+        "end_date": "14-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "21-12-2024",
+        "end_date": "21-12-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 238,
+    "name": "O SONHO DE INACIM",
+    "description": "Eliezer Rolim",
+    "schedule": [
+      {
+        "start_date": "31-12-2024",
+        "end_date": "31-12-2024",
+        "available": true,
+        "time_start": "01:40",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  }
+]

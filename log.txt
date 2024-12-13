@@ -1,0 +1,3 @@
+stdout: filePath tmp/Grade_SDP_Dezembro_-_modelo1.xlsx
+
+Resultados registrados en el archivo de log.

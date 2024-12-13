@@ -158,10 +158,15 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
     }
 
     if (schedules.length > 0) {
+      // Extraer descripción desde los días, si está anidada
+      const firstDayKey = Object.keys(days)[0];
+      const firstDayEntry = days[firstDayKey]?.[0]; // Primer programa del primer día
+      const extractedDescription = firstDayEntry?.description || "Descripción no disponible";
+    
       payloadList.push({
         channel_id,
         name,
-        description: description || "Descripción no disponible", // Usar `description` del JSON o un valor por defecto
+        description: extractedDescription, // Usar la descripción extraída
         schedule: schedules
       });
     }

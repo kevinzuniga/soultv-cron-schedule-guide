@@ -7,6 +7,12 @@ const filePath = process.argv[2];
 console.log('filePath', filePath);
 const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
 
+// Función para convertir una cadena de tiempo en formato HH:mm o HH:mm:ss a decimal
+function timeStringToDecimal(timeString) {
+  const [hours, minutes, seconds] = timeString.split(':').map(Number);
+  const totalHours = hours + (minutes / 60) + (seconds ? seconds / 3600 : 0);
+  return totalHours;
+}
 // Función para convertir el valor numérico de Excel a un formato de fecha
 function excelDateToString(excelDate) {
   if (typeof excelDate === 'number') {

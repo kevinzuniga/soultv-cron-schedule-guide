@@ -1,0 +1,186 @@
+[
+  {
+    "channel_id": 92,
+    "name": "Star Trek - Lower Decks S04E10",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "13:30",
+        "time_end": "14:01",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Salvo Pela Graça",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "14:51",
+        "time_end": "16:16",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "A Fúria dos Sete Homens",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "16:43",
+        "time_end": "18:23",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Fantasy Island_Senhora da noite S01E08",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "18:50",
+        "time_end": "19:38",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "A Mulher Bionica_Os Mísseis Mortíferos",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "20:04",
+        "time_end": "20:52",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Parker",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "21:17",
+        "time_end": "23:10",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Linha de Frente",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "12-12-2024",
+        "end_date": "12-12-2024",
+        "available": true,
+        "time_start": "23:10",
+        "time_end": "00:51",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "A Espiã que Sabia de Menos",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "13-12-2024",
+        "end_date": "13-12-2024",
+        "available": true,
+        "time_start": "00:51",
+        "time_end": "03:01",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  }
+]
