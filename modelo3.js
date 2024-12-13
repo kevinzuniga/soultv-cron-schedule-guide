@@ -94,18 +94,21 @@ workbook.SheetNames.forEach(sheetName => {
 
       const formattedStopTime = `${stopHour.toString().padStart(2, '0')}:${stopMinute.toString().padStart(2, '0')}:00`;
 
-      // Si no existe el programa en el objeto, crearlo
+      // Si no existe el programa en el objeto, crearlo y asignar la descripción
       if (!programsByTitle[program]) {
-        programsByTitle[program] = {};
+        programsByTitle[program] = {
+          description: description || "Sin descripción",
+          days: {}
+        };
       }
 
       // Si no existe el día para ese programa, inicializarlo
-      if (!programsByTitle[program][date]) {
-        programsByTitle[program][date] = [];
+      if (!programsByTitle[program].days[date]) {
+        programsByTitle[program].days[date] = [];
       }
 
       // Agregar el horario de inicio y fin al programa en ese día
-      programsByTitle[program][date].push({
+      programsByTitle[program].days[date].push({
         startTime: formattedStartTime,
         stopTime: formattedStopTime
       });
@@ -116,8 +119,8 @@ workbook.SheetNames.forEach(sheetName => {
 // Convertir los datos a JSON
 const programsJson = Object.keys(programsByTitle).map(title => ({
   program: title,
-  description,
-  days: programsByTitle[title]
+  description: programsByTitle[title].description, // Usar la descripción almacenada
+  days: programsByTitle[title].days
 }));
 
 // Crear la carpeta de salida si no existe

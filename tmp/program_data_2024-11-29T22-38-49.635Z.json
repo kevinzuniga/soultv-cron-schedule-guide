@@ -1,0 +1,2466 @@
+[
+  {
+    "channel_id": 214,
+    "name": "MADRUGADÃO",
+    "description": "Uma programação variada com filmes, documentários, programas dedicado à educação e preservação do meio ambiente. ",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "06:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MISSA DO SANTUÁRIO\n",
+    "description": "Programação religiosa. Missão Ao Vivo",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "06:45",
+        "time_end": "07:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "RECON KIDS",
+    "description": "Uma sessão de desenhos para toda a família.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "10:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "08:00",
+        "time_end": "10:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "16:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "ENCONTRO COM DEUS",
+    "description": "O Encontro com Deus é um retiro espiritual que visa proporcionar uma experiência de amor e graça divina, através da reflexão e meditação sobre a Palavra de Deus.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "CARTOON MANIA",
+    "description": "Sessão de desenhos.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "JORNAL DO VALE",
+    "description": "Acompanhe as notícias atualizadas e os fatos importantes do dia.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "JORNAL AGORA ",
+    "description": "O clássico telejornal da tarde da TV Meio se une ao quadro que todo mundo assiste, o ‘Jogo do Poder’, com um time de jornalistas e analistas da política que trazem suas manchetes e destacam o que é mais relevante na política local e nacional. A conexão com o mundo também é prioridade, e as notícias chegam ao vivo direto de países como Estados Unidos, Áustria e China através dos correspondentes internacionais. De segunda a sexta, às 13h, sob o comando de Amadeu Campos.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "CINE NANUQUE",
+    "description": "Sessão de cinema.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "16:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "23:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "16:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "HORA DA PESCA",
+    "description": "Confira técnicas de pescaria e pesca esportiva, além de dicas para promover a consciência ambiental.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "16:30",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MISTER BEAN ",
+    "description": "Mr. Bean é capaz de transformar as mais simples situações do dia a dia em cômicas confusões.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "BATMAN & ROBIN",
+    "description": "Batman e Robin luram contra o crime em Gotham City.\n",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "09:15",
+        "time_end": "09:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "SÉRIE: VOYAGERS ",
+    "description": "Os viajantes do tempo seguem uma jornada pela história da humanidade e a ajudam a seguir seu curso.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "18:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "GILMAR BRASIL",
+    "description": "Programa Gilmar Brasil. ",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "RECON NEWS",
+    "description": "Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "19:30",
+        "time_end": "20:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "19:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "19:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "19:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "19:30",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "THE ONE",
+    "description": "Paulo Fonseca comanda o primeiro Talk Show diferenciado do Brasil.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "21:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MULHER MARAVILHA",
+    "description": "Conhecida como Mulher-Maravilha, Diana Prince luta contra bandidos e captura seus inimigos com seu laço mágico e seus braceletes da vitória.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "19:15",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "O GORDO E O MAGRO",
+    "description": "O Gordo era impaciente e pomposo; o Magro, paciente e humilde. Ambos incrivelmente exasperavam as pessoas a quem estavam servindo. Eram verdadeiras crianças grandes, ingênuos, imaturos, embora não se considerassem assim.",
+    "schedule": [
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MUNDO JURÍDICO",
+    "description": "undo Jurídico é um programa semanal de 30 minutos, produzido pela OAB",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "VISITA AO SEU LAR",
+    "description": "Acompanhe a programação da Igreja do Evangelho Quadrangular.",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "20:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "PROGRAMA DO TURISMO",
+    "description": "Programa do Turismo apresenta roteiros para você se preparar para organizar suas viagens.",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "20:30",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MACGAYVER",
+    "description": "MacGyver é um agente secreto altamente inteligente que prefere resolver os conflitos sem violência. Ele nunca está armado e derrota o inimigo com seu vasto conhecimento científico.",
+    "schedule": [
+      {
+        "start_date": "03-12-2024",
+        "end_date": "03-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "08:45",
+        "time_end": "09:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "AMIGOS DO TEODORO E SAMPAIO",
+    "description": "Uma das maiores duplas sertanejas do Brasil, Teodoro & Sampaio conquistou o Brasil .",
+    "schedule": [
+      {
+        "start_date": "04-12-2024",
+        "end_date": "04-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "AS PANTERAS",
+    "description": "Três belas investigadoras se formam com honras na academia de polícia e integram a Agência de Detetives Townsend. Elas combatem o crime e se destacam pelo visual impecável e sagacidade em resolver mistérios.",
+    "schedule": [
+      {
+        "start_date": "05-12-2024",
+        "end_date": "05-12-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "A GATA E O RATO",
+    "description": "Maddie Hayes, uma ex-modelo, está prestes a vender a Agência de Detetives Blue Moon quando o sarcástico detetive David Addison muda de ideia. Os dois começam, então, a administrarem uma agência de detetives particulares.",
+    "schedule": [
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "23:30",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "BONANZA",
+    "description": "Ben Cartwright é o patriarca de uma família que vive na Ponderosa com seus três filhos. Adam, o filho mais velho, espera seguir os passos de seu pai; Hoss é fisicamente forte, mas com o coração mais doce, e Joe é o mais impetuoso dos filhos.",
+    "schedule": [
+      {
+        "start_date": "06-12-2024",
+        "end_date": "06-12-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "PESCA ALTERNATIVA",
+    "description": "O programa Pesca Alternativa é um programa de TV que aborda temas relacionados à pesca, como: Técnicas de pesca, Equipamentos de pesca, Meio ambiente, Aquicultura, Competições.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "07:45",
+        "time_end": "08:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "SÉRIE BONANZA",
+    "description": "Ben Cartwright é o patriarca de uma família que vive na Ponderosa com seus três filhos. Adam, o filho mais velho, espera seguir os passos de seu pai; Hoss é fisicamente forte, mas com o coração mais doce, e Joe é o mais impetuoso dos filhos.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "08:15",
+        "time_end": "08:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "TELECO E TECO",
+    "description": "Teleco e Teco é uma dupla brasileira de palhaços que vai animar as suas manhãs de sábado e as tarde de domingo.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MORTAL KOMBAT",
+    "description": "A história gira em torno de três guerreiros: um monge, Kung Lao, um guarda exilado, Siro, e uma ladra, Taja. Em uma geração passada, Kung Lao foi vencedor do torneio Mortal Kombat e diz a lenda que ao vencer o torneio, o Reino da Terra fica a salvo.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "12:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MANZINGA Z",
+    "description": "Mazinger Z é um mangá japonês de super robô escrito e ilustrado por Go Nagai.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "FAIXA MUSICAL",
+    "description": "Faixa de clipes.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "RODRIGO PIRIGO, MÃE DE GRAVATA",
+    "description": "MÃE DE GRAVATA\" é mais do que apenas um programa de TV, é uma jornada emocionante para descobrir o melhor da vida, enquanto nos mantemos informados, inspirados e conectados com o mundo ao nosso redor. Prepare-se para se mover, aprender e se maravilhar conosco!",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "14:00",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "SPEED RACER",
+    "description": "Nascido em um família de pilotos de carros, Speed Racer é uma estrelas das corridas. Ao negar uma oferta lucrativa do empresário da Royalton Indústrias, Speed o deixa furioso e acaba descobrindo a corrupção dos patrocinadores em corridas. Para salvar os negócios da família, Speed participa do mesmo rally que matou seu irmão para desafiar um magnata corrupto.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "16:45",
+        "time_end": "17:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "07:45",
+        "time_end": "08:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "BAYBLADE",
+    "description": "Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional. ",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "17:15",
+        "time_end": "17:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "08:15",
+        "time_end": "08:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "ONE PUNCH MAN",
+    "description": "One Punch-Man é uma série de webcomic criada pelo autor com o pseudónimo One, e é publicada desde 2009. A série rapidamente tornou-se um fenómeno viral, alcançando mais de 7,9 milhões de acessos, em junho de 2012.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "17:45",
+        "time_end": "18:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "08:45",
+        "time_end": "09:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "VOLTRON",
+    "description": "Cinco heróis improváveis pilotam seus leões robóticos para juntos formar o mega poderoso Voltron e defender o universo contra o mal.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "18:15",
+        "time_end": "18:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "09:15",
+        "time_end": "09:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MIAMI VICE ",
+    "description": "Nesta série emblemática dos anos 80, uma divisão especial da polícia chamada Miami Vice, instrumento de repressão ao tráfico de drogas, contrabando, falsificação e prostituição, entre outros delitos, é criada para combater os cartéis do submundo e a corrupção. Os espectadores têm a rara oportunidade de rever seus antigos heróis, os detetives Sonny Crockett e Ricardo Tubbs, em ação. Sempre bem vestidos e com muita classe, os dois policiais disfarçados enfrentam os mais temíveis vilões com estilo e inteligência, mas recorrem constantemente à força bruta para enquadrar os malfeitores.",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "18:45",
+        "time_end": "19:15",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "O SOM DO FORRÓ",
+    "description": "Apresentado pelo apresentador Evandir Pereira o programa mostra o nekhor do forró raiz. ",
+    "schedule": [
+      {
+        "start_date": "07-12-2024",
+        "end_date": "07-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "AGRO CULTURA",
+    "description": "Acompanhe uma viagem por todo o Brasil, conhecendo o universo do homem do campo por meio de suas tradições locais e trabalho nas áreas relacionadas à agricultura, pecuária e ao agronegócio.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "10:00",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MINAS RURAL",
+    "description": "O programa Minas Rural é uma revista eletrônica para o homem do campo.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "10:30",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "SOM DA VIOLA",
+    "description": "A atração é apresentada pelo radialista Adriano Marçal, locutor de rodeios e homem ligado às modas caipiras. Com um carisma muito forte, Marçal rapidamente cativou e conquistou o público.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "ESTAÇÃO",
+    "description": "Estação Plural apresenta entrevistas e promove debates a respeito de comportamento e atualidades. Com o objetivo de quebrar tabus, o programa abre espaço para a troca de experiências e a pluralidade de ideias.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "12:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "VIAJANDO PELO BRASIL",
+    "description": "Para os viajantes que buscam uma vivência transformadora, as belezas naturais e a história do Brasil, acompanhe um programa repleto de dicas para experiências completas em cada destino.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "12:30",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "DOMINGO TOTAL",
+    "description": "Wilton Aguiar recebe convidados especiais para deixar a tarde ainda mais alegre com a participação de novos talentos e cantores consagrados, provas de auditório e matérias especiais.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "14:00",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "CINE NANUQUE ",
+    "description": "Sessão de cinema para a família.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "RODRIGO PIRIGO SHOW",
+    "description": "Sucesso nas redes sociais, em especial no Instagram @rodrigopirigo ,o “Rodrigo Pirigo Show”, um novo programa de humor para toda a família. ",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "20:00",
+        "time_end": "21:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "MEIO DE CAMPO",
+    "description": "O programa Meio de Campo é um programa semanal que aborda o futebol mineiro por meio de reportagens e discussões.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "21:00",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 214,
+    "name": "CINE NANUQUE FIM DE NOITE",
+    "description": "Sessão de cinema.",
+    "schedule": [
+      {
+        "start_date": "08-12-2024",
+        "end_date": "08-12-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  }
+]

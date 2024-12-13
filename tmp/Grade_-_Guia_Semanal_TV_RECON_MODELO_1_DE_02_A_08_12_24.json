@@ -1,0 +1,1132 @@
+[
+  {
+    "program": "MADRUGADÃO",
+    "description": "Uma programação variada com filmes, documentários, programas dedicado à educação e preservação do meio ambiente. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MISSA DO SANTUÁRIO\n",
+    "description": "Programação religiosa. Missão Ao Vivo",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "06:45:00",
+          "stopTime": "07:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "DOCUMENT. FOCO AMBIENTAL",
+    "description": "Veja reportagens e entrevistas sobre tudo que se relaciona à preservação da natureza no nosso país, com destaque para os estados do Sudeste e Sul.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "RECON KIDS",
+    "description": "Uma sessão de desenhos para toda a família.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "08:00:00",
+          "stopTime": "10:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "08:00:00",
+          "stopTime": "10:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "08:00:00",
+          "stopTime": "10:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "08:00:00",
+          "stopTime": "10:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "08:00:00",
+          "stopTime": "10:00:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "16:00:00",
+          "stopTime": "16:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ENCONTRO COM DEUS",
+    "description": "O Encontro com Deus é um retiro espiritual que visa proporcionar uma experiência de amor e graça divina, através da reflexão e meditação sobre a Palavra de Deus.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "11:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "11:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "11:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "11:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "11:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CARTOON MANIA",
+    "description": "Sessão de desenhos.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:30:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:30:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "JORNAL DO VALE",
+    "description": "Acompanhe as notícias atualizadas e os fatos importantes do dia.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:30:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:30:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "JORNAL AGORA ",
+    "description": "O clássico telejornal da tarde da TV Meio se une ao quadro que todo mundo assiste, o ‘Jogo do Poder’, com um time de jornalistas e analistas da política que trazem suas manchetes e destacam o que é mais relevante na política local e nacional. A conexão com o mundo também é prioridade, e as notícias chegam ao vivo direto de países como Estados Unidos, Áustria e China através dos correspondentes internacionais. De segunda a sexta, às 13h, sob o comando de Amadeu Campos.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CINE NANUQUE",
+    "description": "Sessão de cinema.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "16:30:00"
+        },
+        {
+          "startTime": "21:00:00",
+          "stopTime": "23:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "16:30:00"
+        },
+        {
+          "startTime": "21:00:00",
+          "stopTime": "23:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "16:30:00"
+        },
+        {
+          "startTime": "21:00:00",
+          "stopTime": "23:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "16:30:00"
+        },
+        {
+          "startTime": "21:00:00",
+          "stopTime": "23:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "16:30:00"
+        },
+        {
+          "startTime": "21:00:00",
+          "stopTime": "23:00:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "21:00:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "HORA DA PESCA",
+    "description": "Confira técnicas de pescaria e pesca esportiva, além de dicas para promover a consciência ambiental.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "16:30:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "16:30:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "16:30:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "16:30:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "16:30:00",
+          "stopTime": "17:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MISTER BEAN ",
+    "description": "Mr. Bean é capaz de transformar as mais simples situações do dia a dia em cômicas confusões.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "BATMAN & ROBIN",
+    "description": "Batman e Robin luram contra o crime em Gotham City.\n",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:00:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "09:15:00",
+          "stopTime": "09:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: VOYAGERS ",
+    "description": "Os viajantes do tempo seguem uma jornada pela história da humanidade e a ajudam a seguir seu curso.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "18:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "18:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "18:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "GILMAR BRASIL",
+    "description": "Programa Gilmar Brasil. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "RECON NEWS",
+    "description": "Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "19:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "19:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "19:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "19:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "19:30:00",
+          "stopTime": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "THE ONE",
+    "description": "Paulo Fonseca comanda o primeiro Talk Show diferenciado do Brasil.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "21:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MULHER MARAVILHA",
+    "description": "Conhecida como Mulher-Maravilha, Diana Prince luta contra bandidos e captura seus inimigos com seu laço mágico e seus braceletes da vitória.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "19:15:00",
+          "stopTime": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "O GORDO E O MAGRO",
+    "description": "O Gordo era impaciente e pomposo; o Magro, paciente e humilde. Ambos incrivelmente exasperavam as pessoas a quem estavam servindo. Eram verdadeiras crianças grandes, ingênuos, imaturos, embora não se considerassem assim.",
+    "days": {
+      "03/12/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "18:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MUNDO JURÍDICO",
+    "description": "undo Jurídico é um programa semanal de 30 minutos, produzido pela OAB",
+    "days": {
+      "03/12/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "VISITA AO SEU LAR",
+    "description": "Acompanhe a programação da Igreja do Evangelho Quadrangular.",
+    "days": {
+      "03/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA DO TURISMO",
+    "description": "Programa do Turismo apresenta roteiros para você se preparar para organizar suas viagens.",
+    "days": {
+      "03/12/2024": [
+        {
+          "startTime": "20:30:00",
+          "stopTime": "21:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "20:30:00",
+          "stopTime": "21:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "20:30:00",
+          "stopTime": "21:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MACGAYVER",
+    "description": "MacGyver é um agente secreto altamente inteligente que prefere resolver os conflitos sem violência. Ele nunca está armado e derrota o inimigo com seu vasto conhecimento científico.",
+    "days": {
+      "03/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "18:30:00"
+        },
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "08:45:00",
+          "stopTime": "09:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "AMIGOS DO TEODORO E SAMPAIO",
+    "description": "Uma das maiores duplas sertanejas do Brasil, Teodoro & Sampaio conquistou o Brasil .",
+    "days": {
+      "04/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "21:00:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "AS PANTERAS",
+    "description": "Três belas investigadoras se formam com honras na academia de polícia e integram a Agência de Detetives Townsend. Elas combatem o crime e se destacam pelo visual impecável e sagacidade em resolver mistérios.",
+    "days": {
+      "05/12/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "A GATA E O RATO",
+    "description": "Maddie Hayes, uma ex-modelo, está prestes a vender a Agência de Detetives Blue Moon quando o sarcástico detetive David Addison muda de ideia. Os dois começam, então, a administrarem uma agência de detetives particulares.",
+    "days": {
+      "06/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "18:30:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "23:30:00",
+          "stopTime": "23:59:59"
+        }
+      ]
+    }
+  },
+  {
+    "program": "BONANZA",
+    "description": "Ben Cartwright é o patriarca de uma família que vive na Ponderosa com seus três filhos. Adam, o filho mais velho, espera seguir os passos de seu pai; Hoss é fisicamente forte, mas com o coração mais doce, e Joe é o mais impetuoso dos filhos.",
+    "days": {
+      "06/12/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PESCA ALTERNATIVA",
+    "description": "O programa Pesca Alternativa é um programa de TV que aborda temas relacionados à pesca, como: Técnicas de pesca, Equipamentos de pesca, Meio ambiente, Aquicultura, Competições.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE BONANZA",
+    "description": "Ben Cartwright é o patriarca de uma família que vive na Ponderosa com seus três filhos. Adam, o filho mais velho, espera seguir os passos de seu pai; Hoss é fisicamente forte, mas com o coração mais doce, e Joe é o mais impetuoso dos filhos.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "08:15:00",
+          "stopTime": "08:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MR. BEAN",
+    "description": "Mr. Bean é capaz de transformar as mais simples situações do dia a dia em cômicas confusões.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "09:45:00",
+          "stopTime": "10:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "TELECO E TECO",
+    "description": "Teleco e Teco é uma dupla brasileira de palhaços que vai animar as suas manhãs de sábado e as tarde de domingo.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "12:00:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "16:00:00",
+          "stopTime": "18:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MORTAL KOMBAT",
+    "description": "A história gira em torno de três guerreiros: um monge, Kung Lao, um guarda exilado, Siro, e uma ladra, Taja. Em uma geração passada, Kung Lao foi vencedor do torneio Mortal Kombat e diz a lenda que ao vencer o torneio, o Reino da Terra fica a salvo.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "12:00:00",
+          "stopTime": "12:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MANZINGA Z",
+    "description": "Mazinger Z é um mangá japonês de super robô escrito e ilustrado por Go Nagai.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FAIXA MUSICAL",
+    "description": "Faixa de clipes.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "RODRIGO PIRIGO, MÃE DE GRAVATA",
+    "description": "MÃE DE GRAVATA\" é mais do que apenas um programa de TV, é uma jornada emocionante para descobrir o melhor da vida, enquanto nos mantemos informados, inspirados e conectados com o mundo ao nosso redor. Prepare-se para se mover, aprender e se maravilhar conosco!",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "14:00:00",
+          "stopTime": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SPEED RACER",
+    "description": "Nascido em um família de pilotos de carros, Speed Racer é uma estrelas das corridas. Ao negar uma oferta lucrativa do empresário da Royalton Indústrias, Speed o deixa furioso e acaba descobrindo a corrupção dos patrocinadores em corridas. Para salvar os negócios da família, Speed participa do mesmo rally que matou seu irmão para desafiar um magnata corrupto.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "16:45:00",
+          "stopTime": "17:15:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "07:45:00",
+          "stopTime": "08:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "BAYBLADE",
+    "description": "Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional. ",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "17:15:00",
+          "stopTime": "17:45:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "08:15:00",
+          "stopTime": "08:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ONE PUNCH MAN",
+    "description": "One Punch-Man é uma série de webcomic criada pelo autor com o pseudónimo One, e é publicada desde 2009. A série rapidamente tornou-se um fenómeno viral, alcançando mais de 7,9 milhões de acessos, em junho de 2012.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "17:45:00",
+          "stopTime": "18:15:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "08:45:00",
+          "stopTime": "09:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "VOLTRON",
+    "description": "Cinco heróis improváveis pilotam seus leões robóticos para juntos formar o mega poderoso Voltron e defender o universo contra o mal.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "18:15:00",
+          "stopTime": "18:45:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "09:15:00",
+          "stopTime": "09:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MIAMI VICE ",
+    "description": "Nesta série emblemática dos anos 80, uma divisão especial da polícia chamada Miami Vice, instrumento de repressão ao tráfico de drogas, contrabando, falsificação e prostituição, entre outros delitos, é criada para combater os cartéis do submundo e a corrupção. Os espectadores têm a rara oportunidade de rever seus antigos heróis, os detetives Sonny Crockett e Ricardo Tubbs, em ação. Sempre bem vestidos e com muita classe, os dois policiais disfarçados enfrentam os mais temíveis vilões com estilo e inteligência, mas recorrem constantemente à força bruta para enquadrar os malfeitores.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "18:45:00",
+          "stopTime": "19:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "O SOM DO FORRÓ",
+    "description": "Apresentado pelo apresentador Evandir Pereira o programa mostra o nekhor do forró raiz. ",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "21:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "3 PALAVRINHAS",
+    "description": "As 3 Palavrinhas, que significam “Deus é Amor”",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "09:45:00",
+          "stopTime": "10:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "AGRO CULTURA",
+    "description": "Acompanhe uma viagem por todo o Brasil, conhecendo o universo do homem do campo por meio de suas tradições locais e trabalho nas áreas relacionadas à agricultura, pecuária e ao agronegócio.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "10:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MINAS RURAL",
+    "description": "O programa Minas Rural é uma revista eletrônica para o homem do campo.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "11:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SOM DA VIOLA",
+    "description": "A atração é apresentada pelo radialista Adriano Marçal, locutor de rodeios e homem ligado às modas caipiras. Com um carisma muito forte, Marçal rapidamente cativou e conquistou o público.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ESTAÇÃO",
+    "description": "Estação Plural apresenta entrevistas e promove debates a respeito de comportamento e atualidades. Com o objetivo de quebrar tabus, o programa abre espaço para a troca de experiências e a pluralidade de ideias.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "12:00:00",
+          "stopTime": "12:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "VIAJANDO PELO BRASIL",
+    "description": "Para os viajantes que buscam uma vivência transformadora, as belezas naturais e a história do Brasil, acompanhe um programa repleto de dicas para experiências completas em cada destino.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "12:30:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "DOMINGO TOTAL",
+    "description": "Wilton Aguiar recebe convidados especiais para deixar a tarde ainda mais alegre com a participação de novos talentos e cantores consagrados, provas de auditório e matérias especiais.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "14:00:00",
+          "stopTime": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CINE NANUQUE ",
+    "description": "Sessão de cinema para a família.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "RODRIGO PIRIGO SHOW",
+    "description": "Sucesso nas redes sociais, em especial no Instagram @rodrigopirigo ,o “Rodrigo Pirigo Show”, um novo programa de humor para toda a família. ",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "21:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "MEIO DE CAMPO",
+    "description": "O programa Meio de Campo é um programa semanal que aborda o futebol mineiro por meio de reportagens e discussões.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "21:00:00",
+          "stopTime": "22:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CINE NANUQUE FIM DE NOITE",
+    "description": "Sessão de cinema.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "22:00:00",
+          "stopTime": "23:59:59"
+        }
+      ]
+    }
+  }
+]

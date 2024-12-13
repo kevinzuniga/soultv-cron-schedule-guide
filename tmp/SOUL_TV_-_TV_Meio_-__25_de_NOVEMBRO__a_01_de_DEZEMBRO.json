@@ -1,0 +1,1366 @@
+[
+  {
+    "program": "PROGRAMA BOM DIA MEIO NACIONAL",
+    "description": "Apresenta as notícias sobre a educação, política, segurança, cultura, esporte Brasil e mundo",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "07:00:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "07:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "07:00:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "07:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "07:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA BOM DIA MEIO LOCAL",
+    "description": "Apresenta as notícias sobre a educação, política, segurança, cultura, esporte do Piauí",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "07:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "07:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "07:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "07:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "07:00:00",
+          "stopTime": "08:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "1º  INFORME MEIO - MANHÃ",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil  e mundo.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA REVISTA",
+    "description": "Apresenta Dicas de maquiagem, culinária e vários outros temas do universo feminino.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "O 10 DO ESPORTE - KAJURU",
+    "description": "Apresenta notícias sobre futebol",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "10:35:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "10:35:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "10:35:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "10:35:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "10:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA RONDA COM SILAR FREIRE",
+    "description": "Apresenta noticias sobre casos alarmantes de repercução, humor e entretendimento ",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "10:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "10:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "10:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "10:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "10:35:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "2º  INFORME MEIO - MANHÃ",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil e mundo.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "12:55:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "12:55:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "12:55:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "12:55:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "12:55:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA AGORA NACIONAL",
+    "description": "Apresenta noticias da política com analistas que trazem suas manchetes e destacam do Brasil e mundo",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "14:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA AGORA LOCAL",
+    "description": "Apresenta noticias da política com analistas que trazem suas manchetes e destacam do Piauí",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "15:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "1º  INFORME MEIO - TARDE",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil e mundo.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA DA TARDE ",
+    "description": "Apresenta notícias e casos que estão chamando a atenção no mundo artistico do Brasil e do mundo",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "2º  INFORME MEIO - TARDE",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil e mundo.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA PATRULHA DO COXINHA",
+    "description": "Apresenta humor e entrevistas ",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "30/11/2024": [
+        {
+          "startTime": "16:00:00",
+          "stopTime": "17:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAM PATRULHA NACIONAL",
+    "description": "Apresenta noticias Policias e entretendiemento do Brasil.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:30:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:55:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:30:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:55:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:30:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:30:00"
+        },
+        {
+          "startTime": "19:00:00",
+          "stopTime": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAM PATRULHA  - HORÁRIO PRAÇA",
+    "description": "Apresenta noticias Policias e entretendiemento do Brasil.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "18:30:00",
+          "stopTime": "19:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "1º  INFORME MEIO - NOITE",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil e mundo.",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:05:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "20:25:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:05:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "20:25:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "20:25:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA ESPORTIVO -  OLÉ ",
+    "description": "Apresenta Esporte em geral",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "20:05:00",
+          "stopTime": "20:25:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA CIÊNCIA POLÍTICA",
+    "description": "Apresenta o mundo politico e os bastidores da política local, regional e nacional com analistas e comentaristas",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "20:25:00",
+          "stopTime": "21:35:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "20:25:00",
+          "stopTime": "21:35:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "20:25:00",
+          "stopTime": "21:35:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "20:25:00",
+          "stopTime": "21:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA NA TELA COM VICENTE DATENA",
+    "description": "Apresenta as notícias Policiais do brasil e mundo ",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA ESPAÇO GOURMET ",
+    "description": "Apresenta o universo da culinária, apresentando as receitas que são destaques nos programa televisivo ",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "26/11/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "00:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODCAST - PODJOGO ",
+    "description": "Entrevista de varios tema...",
+    "days": {
+      "25/11/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "00:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:DESCULPA TE INCOMODAR",
+    "description": "Em uma versão atual alternativa de Oakland, o atendente de telemarketing Cassius Green descobre uma chave mágica para o sucesso profissional, que o impulsiona a um universo macabro.",
+    "days": {
+      "26/11/2024": [
+        {
+          "startTime": "00:35:00",
+          "stopTime": "02:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:VAMPIROS ANONIMOS",
+    "description": "Um vampiro se inscreve em um programa projetado para ajudar os mortos-vivos a controlar seu apetite.",
+    "days": {
+      "26/11/2024": [
+        {
+          "startTime": "02:30:00",
+          "stopTime": "04:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA VOZ DO POVO",
+    "description": "Apresenta rádio e tv com musicas, humor, entretedimento e interção com telespectador. ",
+    "days": {
+      "26/11/2024": [
+        {
+          "startTime": "04:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "27/11/2024": [
+        {
+          "startTime": "04:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "28/11/2024": [
+        {
+          "startTime": "04:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "04:00:00",
+          "stopTime": "06:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODMEIO - FALANDO NISSO ",
+    "description": "Podcast que abrange varios temas",
+    "days": {
+      "26/11/2024": [
+        {
+          "startTime": "23:30:00",
+          "stopTime": "00:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:FRENTE A FRENTE",
+    "description": "Shan é um policial justo que é admirado pela força policial por ter resolvido muitos casos. Um dia, seu passado volta para assombrá-lo quando sua operação policial é atacada por um misterioso grupo de criminosos liderados por Ngo, seu ex-protegido.",
+    "days": {
+      "27/11/2024": [
+        {
+          "startTime": "00:30:00",
+          "stopTime": "02:40:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: HÉRCULES ",
+    "description": "conta a história do semideus Hércules, filho de Zeus e uma mortal, e suas aventuras:",
+    "days": {
+      "27/11/2024": [
+        {
+          "startTime": "02:40:00",
+          "stopTime": "04:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA PATRULHA NACIONAL",
+    "description": "Apresenta noticias Policias e entretendiemento do Brasil.",
+    "days": {
+      "27/11/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "18:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODK LIBERADO ",
+    "description": "Entravista de varias temas",
+    "days": {
+      "27/11/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "00:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: A MÁQUINA DO TEMPO",
+    "description": "O cientista, conhecido apenas como \"O Viajante do Tempo\", constrói uma máquina do tempo com base em conceitos matemáticos",
+    "days": {
+      "28/11/2024": [
+        {
+          "startTime": "00:35:00",
+          "stopTime": "02:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: TESTA DE FERRO",
+    "description": "O roteirista Alfred Miller está na lista negra do governo McCarthy e pede ao seu amigo, Prince, para vender seus roteiros usando o nome dele.",
+    "days": {
+      "28/11/2024": [
+        {
+          "startTime": "02:30:00",
+          "stopTime": "04:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA NA TELA COM VOCENTE DATENA",
+    "description": "Noticias policiais do Brasil e mundo",
+    "days": {
+      "28/11/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "29/11/2024": [
+        {
+          "startTime": "22:00:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODMEIO - CANAL SAÚDE ",
+    "description": "Podcast  sobres varias temas realacionado saúde humana",
+    "days": {
+      "28/11/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "00:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: ACE A FACE COM O INIMIGO ",
+    "description": " conta a história de Peter Sanderson, um campeão de xadrez que se torna o principal suspeito de uma série de crimes na cidade",
+    "days": {
+      "29/11/2024": [
+        {
+          "startTime": "02:10:00",
+          "stopTime": "04:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMAPROGRAMA: BUTIQUIM",
+    "description": "Apresenta o mundo politico e os bastidores da política local, regional e nacional com analistas e comentaristas",
+    "days": {
+      "29/11/2024": [
+        {
+          "startTime": "20:25:00",
+          "stopTime": "22:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODMEIO - TRÊS CONTRA 1 ",
+    "description": "Podcast  sobres varias temas realacionado saúde humana",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "00:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:    TERROR A BORDO",
+    "description": "Rae Ingram e seu marido, John, lutam para superar a morte súbita de seu filho pequeno. Na tentativa de deixar para trás a perda, o casal faz uma viagem de férias prolongadas em seu iate. Já em alto-mar, eles se deparam com uma escuna afundando e resgatam o único sobrevivente, Hughie Warriner",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "03:00:00",
+          "stopTime": "05:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA 99 SHOW",
+    "description": "Apresenta rádio e tv com musicas, humor, entretedimento e interção com telespectador. ",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "05:00:00",
+          "stopTime": "06:00:00"
+        },
+        {
+          "startTime": "06:00:00",
+          "stopTime": "07:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA PAINEL  AGRO",
+    "description": "Apresenta conteudos sobre agricultura, maquinas...",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "07:00:00",
+          "stopTime": "07:50:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA TELELECO COM PALHAÇO LELECO",
+    "description": "Apresenta Bricadeira, entretendimento com criaças e muitos Desenhos diversos",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "07:50:00",
+          "stopTime": "11:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA: RONDA DO POVÃO ",
+    "description": "Apresenta noticias sobre casos alarmantes de repercução, humor e entretendimento ",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: SUPERMAN III",
+    "description": "O programador de computadores Gus Gorman é contratado pelo magnata das finanças Ross Webster para tomar um satélite meteorológico e aniquilar as plantações de café da Colômbia. Quando Superman frustra o plano, Webster ordena Gorman a usar o satélite para localizar a criptonita.",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FEED MEIO",
+    "description": "Vídeos da net",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "15:30:00",
+          "stopTime": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA MN 40 GRAUS",
+    "description": "Noticias policiais do Brasil e mundo",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "19:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": " LOST EPIS. 10  ",
+    "description": "Um grupo de pessoas que tenta sobreviver em uma ilha misteriosa, após o avião em que viajavam cair no Oceano Pacífico",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:50:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SERIE: SMALLVILE ",
+    "description": "conta a trajetória de Clark Kent (Tom Welling), que reside na cidade fictícia de Smallville, Kansas (Pequenopólis, na dublagem brasileira), durante os anos antes dele se tornar o super-herói conhecido como \"Superman\". ",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "19:50:00",
+          "stopTime": "20:40:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ARQUIVO X  - 2° TEMP. ",
+    "description": "Os agentes do FBI Fox Mulder (David Duchovny) e Dana Scully (Gillian Anderson) são o oposto um do outro: ele acredita em atividades paranormais, e ela não. Juntos, eles investigam estranhos casos",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "20:40:00",
+          "stopTime": "21:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: DIRTY HARRY NA LISTA NEGRA",
+    "description": "Ao investigar a morte de um roqueiro famoso, Harry descobre a existência de um jogo mortal, onde um grupo de pessoas faz uma lista com nomes de celebridades que merecem morrer. Mas ele percebe que terá que agir rápido, se quiser sair vivo do caso.",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "21:30:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "POD CAST - IELCAST",
+    "description": "PODCAST",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "00:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODMEIO - PODJOGO ",
+    "description": "PODCAST",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "01:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODMEIO - FALANDO NISSO",
+    "description": "PODCAST",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "01:00:00",
+          "stopTime": "01:57:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PODMEIO - CANAL SAÚDE",
+    "description": "PODCAST",
+    "days": {
+      "30/11/2024": [
+        {
+          "startTime": "01:57:00",
+          "stopTime": "02:50:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "POD MEIO -TRÊS POR UM",
+    "description": "PODCAST",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "02:50:00",
+          "stopTime": "03:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:  É O FIM",
+    "description": "Os grandes amigos Seth Rogen e Jay Baruchel participam de uma festa na casa do ator James Franco, que reúne diversas celebridades no local, como Jonah Hill, Rihanna, Jason Segel e Emma Watson.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "03:45:00",
+          "stopTime": "06:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA: EM TUAS MÃOS (30min)",
+    "description": "Apresenta, em seus quadros, as ações da Igreja de Teresina, como uma forma de evangelizar através dos meios de comunicação.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "06:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA: PAINEL AGRO",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil  e mundo.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "06:30:00",
+          "stopTime": "07:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: A FAMILIA DINOSSOURO",
+    "description": "Eles são apenas uma família comum com uma GRANDE diferença. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. ",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "07:20:00",
+          "stopTime": "08:10:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: AS PANTERAS",
+    "description": "Não satisfeitas com o sucesso e prestígio conquistados após serem consideradas as melhores da turma da academia de polícia, três lindas mulheres decidem fazer uma mudança em suas carreiras profissionais e passam a trabalhar para a agência de investigação do misterioso Charlie Townsend.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "08:10:00",
+          "stopTime": "09:10:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ANIME:CYBORG 009 ",
+    "description": " após anos a viverem no anonimato, os ciborgues são obrigados a enfrentar um super-humano com um plano terrível para a humanidade.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "09:10:00",
+          "stopTime": "11:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA 100 MILHAS",
+    "description": "Os apresentadores antecipam os lançamentos em modelos e novas tecnologias, visitam os maiores salões internacionais e fazem uma fusão entre o futuro e o passado resgatando a história da indústria automotiva.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "11:00:00",
+          "stopTime": "12:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:   UM SONHO POSSÍVEL",
+    "description": "Michael Oher é um jovem negro, filho de uma mãe viciada e que não tem onde morar. Com boa vocação para os esportes, um dia ele é avistado pela família de Leigh Anne Tuohy, andando em direção ao estádio da escola para dormir longe da chuva",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "12:00:00",
+          "stopTime": "14:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: MULHER GATO",
+    "description": "uncionária de uma indústria de cosméticos é assassinada depois de descobrir um perigoso segredo sobre um produto antienvelhecimento. No entanto, um gato egípcio a salva, dando-lhe o poder da velocidade e os sentidos de um ágil felino.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "14:20:00",
+          "stopTime": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: O DIABO VESTE PRADA",
+    "description": "Andy é uma jovem que consegue um emprego na renomada \"Runway Magazine\", a mais importante revista de moda de Nova York. Ela passa a trabalhar como assistente de Miranda Priestly, editora-chefe da revista.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "16:00:00",
+          "stopTime": "18:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: ARQUIVO X  ",
+    "description": "Os agentes do FBI Fox Mulder (David Duchovny) e Dana Scully (Gillian Anderson) são o oposto um do outro: ele acredita em atividades paranormais, e ela não. Juntos, eles investigam estranhos casos",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "18:00:00",
+          "stopTime": "18:50:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:  SEDE SEM FIM",
+    "description": "Trinta anos depois da guerra ter dizimado o mundo, um guerreiro solitário chamado Eli caminha por horizontes arruinados dando esperança para os que restaram. ",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "18:50:00",
+          "stopTime": "20:50:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: LOST - EPISÓDIO 06",
+    "description": "Um avião cai em uma ilha deserta e logo um grupo de passageiros precisa lutar para sobreviver. Liderados pelo médico Jack Shephard (Matthew Fox) e pelo misterioso John Locke (Terry O'Quinn), eles irão descobrir que o local esconde perigosos segredos.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "20:50:00",
+          "stopTime": "21:40:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: UMA ODISSEIA COREANA - EPISÓDIO 19",
+    "description": " conta a história de um ser mítico que tenta se tornar invencível, mas acaba nas mãos de uma garota que consegue ver criaturas sobrenaturais.",
+    "days": {
+      "01/12/2024": [
+        {
+          "startTime": "21:40:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA CAFÉ COM LEITE ",
+    "description": "Apresenta uma reflexão sobre o Mito da Democracia Racial no Brasil através de depoimentos e comentários ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME: WATERLOO - A BATALHA DE NAPOLEÃO ",
+    "description": "Napoleão retorna do exílio para a alegria de seus compatriotas franceses e reúne um exército para conquistar a Europa. Wellington lidera as forças aliadas para combater os franceses, com os exércitos finalmente se encontrando em Waterloo, na Bélgica.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "02:10:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FILME:O ATAQUE DOS VERMES MALDITOS 03",
+    "description": "O famoso \"matador de monstros\", Burt Gummer (Michael Gross), retorna à cidade Perfection, onde ocorreram os primeiros ataques feitos pelos vermes Grabóides. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "00:10:00",
+          "stopTime": "02:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA VOZ DO POVO COM PAULO BRITO",
+    "description": "Apresenta musicas, humor, entretedimento e interação com o telespectador. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "04:00:00",
+          "stopTime": "06:00:00"
+        }
+      ]
+    }
+  }
+]

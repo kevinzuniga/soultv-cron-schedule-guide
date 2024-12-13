@@ -11,3 +11,26 @@ Duración de la llamada: 5.359 segundos, Programas enviados: 35
 Llamadas exitosas: 1, Llamadas fallidas: 0
 Llamadas exitosas: 1, Llamadas fallidas: 0
 Duración de la llamada: 5.305 segundos, Programas enviados: 35
+Llamadas exitosas: 2, Llamadas fallidas: 0
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 1, Llamadas fallidas: 0
+Llamadas exitosas: 1, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 0, Llamadas fallidas: 1
+Llamadas exitosas: 1, Llamadas fallidas: 0
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 6.40 segundos
+handler_all: Llamadas exitosas: 1, Llamadas fallidas: 0, Programas enviados: 0, Tiempo transcurrido: 5.09 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 17.20 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 413, Tiempo transcurrido: 6.94 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 10.63 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 9.85 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 9.13 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 14.63 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 9.41 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 10.27 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 413, Tiempo transcurrido: 9.32 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 12.84 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 5.28 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 7.84 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 0, Tiempo transcurrido: 5.23 segundos
+handler_all: Llamadas exitosas: 0, Llamadas fallidas: 1, Programas enviados: 413, Tiempo transcurrido: 6.67 segundos

@@ -7,6 +7,23 @@ const filePath = process.argv[2];
 console.log('filePath', filePath);
 const outputFilePath = path.join('./tmp', path.basename(filePath, path.extname(filePath)) + '.json');
 
+function timeStringToDecimal(timeString) {
+  // Verifica si el tiempo tiene el formato correcto
+  const timeParts = timeString.split(':');
+  if ((timeParts.length !== 2) && (timeParts.length !== 3)) {
+    throw new Error(`Formato de tiempo inválido: ${timeString}`);
+  }
+
+  const hours = parseInt(timeParts[0], 10);
+  const minutes = parseInt(timeParts[1], 10);
+
+  if (isNaN(hours) || isNaN(minutes)) {
+    throw new Error(`Hora o minutos no válidos en el tiempo: ${timeString}`);
+  }
+
+  // Convierte el tiempo a un valor decimal
+  return hours + minutes / 60;
+}
 // Función para convertir el valor numérico de Excel a un formato de fecha
 function excelDateToString(excelDate) {
   if (typeof excelDate === 'number') {

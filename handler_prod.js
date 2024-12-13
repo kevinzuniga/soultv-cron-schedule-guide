@@ -11,6 +11,8 @@ const domain = 'https://cms.soultv.com.br';
 module.exports.processFiles = async () => {
   let successCount = 0;
   let failureCount = 0;
+  let programCount = 0; // Contador de programas procesados
+  const startTime = Date.now(); // Tiempo de inicio
 
   try {
     // Hacer la solicitud al API
@@ -23,17 +25,17 @@ module.exports.processFiles = async () => {
 
         // Descargar el archivo al directorio /tmp
         const fileName = path.basename(file_url);
-        const filePath = path.join('/tmp', fileName);
+        const filePath = path.join('./tmp', fileName);
         const fileWriter = fs.createWriteStream(filePath);
 
         await new Promise((resolve, reject) => {
           const protocol = file_url.startsWith('https') ? https : http;
-          protocol.get(file_url, function(response) {
+          protocol.get(file_url, function (response) {
             response.pipe(fileWriter);
-            fileWriter.on('finish', function() {
+            fileWriter.on('finish', function () {
               fileWriter.close(resolve);
             });
-          }).on('error', function(err) {
+          }).on('error', function (err) {
             fs.unlink(filePath, () => {}); // Borrar el archivo en caso de error
             reject(err.message);
           });
@@ -57,12 +59,13 @@ module.exports.processFiles = async () => {
               if (code !== 0) {
                 reject(new Error(`Proceso finalizó con código ${code}`));
               } else {
-                const jsonFilePath = path.join('/tmp', `${path.basename(filePath, path.extname(filePath))}.json`);
+                const jsonFilePath = path.join('./tmp', `${path.basename(filePath, path.extname(filePath))}.json`);
                 const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf8'));
-                processJsonData(jsonData, channel_id, successCount, failureCount)
-                  .then((counts) => {
-                    successCount = counts.successCount;
-                    failureCount = counts.failureCount;
+                processJsonData(jsonData, channel_id, programCount, successCount, failureCount)
+                  .then((result) => {
+                    programCount += result.programCount;
+                    successCount = result.successCount;
+                    failureCount = result.failureCount;
                     resolve();
                   })
                   .catch((err) => {
@@ -86,11 +89,12 @@ module.exports.processFiles = async () => {
     console.error(`Error procesando los archivos: ${error?.message || error}`);
     failureCount++;
   } finally {
-    logResults(successCount, failureCount);
+    const elapsedTime = (Date.now() - startTime) / 1000; // Tiempo transcurrido en segundos
+    logResults(successCount, failureCount, programCount, elapsedTime);
   }
 };
 
-async function processJsonData(jsonData, channel_id, successCount, failureCount) {
+async function processJsonData(jsonData, channel_id, programCount, successCount, failureCount) {
   const payloadList = [];
 
   for (const program of jsonData) {
@@ -149,6 +153,7 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
   if (payloadList.length > 0) {
     try {
       await postProgramData(payloadList);
+      programCount += payloadList.length; // Incrementar el contador de programas procesados
       successCount++;
     } catch (error) {
       failureCount++;
@@ -156,12 +161,12 @@ async function processJsonData(jsonData, channel_id, successCount, failureCount)
     }
   }
 
-  return { successCount, failureCount };
+  return { programCount, successCount, failureCount };
 }
 
 async function postProgramData(data) {
   const timestamp = new Date().toISOString().replace(/:/g, '-');
-  const jsonFilePath = path.join('/tmp', `program_data_${timestamp}.json`);
+  const jsonFilePath = path.join('./tmp', `program_data_${timestamp}.json`);
   fs.writeFileSync(jsonFilePath, JSON.stringify(data, null, 2), 'utf8');
   console.log(`Datos guardados en ${jsonFilePath}`);
 
@@ -171,9 +176,9 @@ async function postProgramData(data) {
   }
 }
 
-function logResults(successCount, failureCount) {
-  const logMessage = `Llamadas exitosas: ${successCount}, Llamadas fallidas: ${failureCount}\n`;
-  const logFilePath = path.join('/tmp', 'service_call_log.txt');
+function logResults(successCount, failureCount, programCount, elapsedTime) {
+  const logMessage = `handler_prod: Llamadas exitosas: ${successCount}, Llamadas fallidas: ${failureCount}, Programas enviados: ${programCount}, Tiempo transcurrido: ${elapsedTime.toFixed(2)} segundos\n`;
+  const logFilePath = path.join('./tmp', 'service_call_log.txt');
 
   fs.appendFile(logFilePath, logMessage, (err) => {
     if (err) {

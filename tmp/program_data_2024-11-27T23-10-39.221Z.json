@@ -1,0 +1,2395 @@
+[
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA BOM DIA MEIO NACIONAL",
+    "description": "Apresenta as notícias sobre a educação, política, segurança, cultura, esporte Brasil e mundo",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA BOM DIA MEIO LOCAL",
+    "description": "Apresenta as notícias sobre a educação, política, segurança, cultura, esporte do Piauí",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "08:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "08:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA REVISTA",
+    "description": "Apresenta Dicas de maquiagem, culinária e vários outros temas do universo feminino.",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "08:35",
+        "time_end": "10:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA RONDA COM SILAR FREIRE",
+    "description": "Apresenta noticias sobre casos alarmantes de repercução, humor e entretendimento ",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "10:35",
+        "time_end": "13:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "10:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "10:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "10:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "10:35",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA AGORA NACIONAL",
+    "description": "Apresenta noticias da política com analistas que trazem suas manchetes e destacam do Brasil e mundo",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA AGORA LOCAL",
+    "description": "Apresenta noticias da política com analistas que trazem suas manchetes e destacam do Piauí",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "15:20",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "15:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA DA TARDE ",
+    "description": "Apresenta notícias e casos que estão chamando a atenção no mundo artistico do Brasil e do mundo",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "15:25",
+        "time_end": "16:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA PATRULHA DO COXINHA",
+    "description": "Apresenta humor e entrevistas ",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "17:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "17:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAM PATRULHA NACIONAL",
+    "description": "Apresenta noticias Policias e entretendiemento do Brasil.",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:30",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:55",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:55",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "20:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAM PATRULHA  - HORÁRIO PRAÇA",
+    "description": "Apresenta noticias Policias e entretendiemento do Brasil.",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "18:30",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA CIÊNCIA POLÍTICA",
+    "description": "Apresenta o mundo politico e os bastidores da política local, regional e nacional com analistas e comentaristas",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "20:25",
+        "time_end": "21:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "20:25",
+        "time_end": "21:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "20:25",
+        "time_end": "21:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "20:25",
+        "time_end": "21:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA NA TELA COM VICENTE DATENA",
+    "description": "Apresenta as notícias Policiais do brasil e mundo ",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA ESPAÇO GOURMET ",
+    "description": "Apresenta o universo da culinária, apresentando as receitas que são destaques nos programa televisivo ",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "22:35",
+        "time_end": "23:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODCAST - PODJOGO ",
+    "description": "Entrevista de varios tema...",
+    "schedule": [
+      {
+        "start_date": "25-11-2024",
+        "end_date": "25-11-2024",
+        "available": true,
+        "time_start": "23:35",
+        "time_end": "00:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:DESCULPA TE INCOMODAR",
+    "description": "Em uma versão atual alternativa de Oakland, o atendente de telemarketing Cassius Green descobre uma chave mágica para o sucesso profissional, que o impulsiona a um universo macabro.",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "00:35",
+        "time_end": "02:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:VAMPIROS ANONIMOS",
+    "description": "Um vampiro se inscreve em um programa projetado para ajudar os mortos-vivos a controlar seu apetite.",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "02:30",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA VOZ DO POVO",
+    "description": "Apresenta rádio e tv com musicas, humor, entretedimento e interção com telespectador. ",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODMEIO - FALANDO NISSO ",
+    "description": "Podcast que abrange varios temas",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "23:30",
+        "time_end": "00:30",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:FRENTE A FRENTE",
+    "description": "Shan é um policial justo que é admirado pela força policial por ter resolvido muitos casos. Um dia, seu passado volta para assombrá-lo quando sua operação policial é atacada por um misterioso grupo de criminosos liderados por Ngo, seu ex-protegido.",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "00:30",
+        "time_end": "02:40",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SÉRIE: HÉRCULES ",
+    "description": "conta a história do semideus Hércules, filho de Zeus e uma mortal, e suas aventuras:",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "02:40",
+        "time_end": "04:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA PATRULHA NACIONAL",
+    "description": "Apresenta noticias Policias e entretendiemento do Brasil.",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "17:30",
+        "time_end": "18:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODK LIBERADO ",
+    "description": "Entravista de varias temas",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "23:35",
+        "time_end": "00:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: A MÁQUINA DO TEMPO",
+    "description": "O cientista, conhecido apenas como \"O Viajante do Tempo\", constrói uma máquina do tempo com base em conceitos matemáticos",
+    "schedule": [
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "00:35",
+        "time_end": "02:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: TESTA DE FERRO",
+    "description": "O roteirista Alfred Miller está na lista negra do governo McCarthy e pede ao seu amigo, Prince, para vender seus roteiros usando o nome dele.",
+    "schedule": [
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "02:30",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA NA TELA COM VOCENTE DATENA",
+    "description": "Noticias policiais do Brasil e mundo",
+    "schedule": [
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "21:35",
+        "time_end": "22:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      },
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "22:00",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODMEIO - CANAL SAÚDE ",
+    "description": "Podcast  sobres varias temas realacionado saúde humana",
+    "schedule": [
+      {
+        "start_date": "28-11-2024",
+        "end_date": "28-11-2024",
+        "available": true,
+        "time_start": "23:35",
+        "time_end": "00:35",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": true,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: ACE A FACE COM O INIMIGO ",
+    "description": " conta a história de Peter Sanderson, um campeão de xadrez que se torna o principal suspeito de uma série de crimes na cidade",
+    "schedule": [
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "02:10",
+        "time_end": "04:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMAPROGRAMA: BUTIQUIM",
+    "description": "Apresenta o mundo politico e os bastidores da política local, regional e nacional com analistas e comentaristas",
+    "schedule": [
+      {
+        "start_date": "29-11-2024",
+        "end_date": "29-11-2024",
+        "available": true,
+        "time_start": "20:25",
+        "time_end": "22:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": true,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODMEIO - TRÊS CONTRA 1 ",
+    "description": "Podcast  sobres varias temas realacionado saúde humana",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:    TERROR A BORDO",
+    "description": "Rae Ingram e seu marido, John, lutam para superar a morte súbita de seu filho pequeno. Na tentativa de deixar para trás a perda, o casal faz uma viagem de férias prolongadas em seu iate. Já em alto-mar, eles se deparam com uma escuna afundando e resgatam o único sobrevivente, Hughie Warriner",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "03:00",
+        "time_end": "05:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA 99 SHOW",
+    "description": "Apresenta rádio e tv com musicas, humor, entretedimento e interção com telespectador. ",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "05:00",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      },
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "07:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA PAINEL  AGRO",
+    "description": "Apresenta conteudos sobre agricultura, maquinas...",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "07:00",
+        "time_end": "07:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA TELELECO COM PALHAÇO LELECO",
+    "description": "Apresenta Bricadeira, entretendimento com criaças e muitos Desenhos diversos",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "07:50",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA: RONDA DO POVÃO ",
+    "description": "Apresenta noticias sobre casos alarmantes de repercução, humor e entretendimento ",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "13:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: SUPERMAN III",
+    "description": "O programador de computadores Gus Gorman é contratado pelo magnata das finanças Ross Webster para tomar um satélite meteorológico e aniquilar as plantações de café da Colômbia. Quando Superman frustra o plano, Webster ordena Gorman a usar o satélite para localizar a criptonita.",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "13:00",
+        "time_end": "15:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FEED MEIO",
+    "description": "Vídeos da net",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "15:30",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA MN 40 GRAUS",
+    "description": "Noticias policiais do Brasil e mundo",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "17:00",
+        "time_end": "19:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": " LOST EPIS. 10  ",
+    "description": "Um grupo de pessoas que tenta sobreviver em uma ilha misteriosa, após o avião em que viajavam cair no Oceano Pacífico",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "19:00",
+        "time_end": "19:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SERIE: SMALLVILE ",
+    "description": "conta a trajetória de Clark Kent (Tom Welling), que reside na cidade fictícia de Smallville, Kansas (Pequenopólis, na dublagem brasileira), durante os anos antes dele se tornar o super-herói conhecido como \"Superman\". ",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "19:50",
+        "time_end": "20:40",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "ARQUIVO X  - 2° TEMP. ",
+    "description": "Os agentes do FBI Fox Mulder (David Duchovny) e Dana Scully (Gillian Anderson) são o oposto um do outro: ele acredita em atividades paranormais, e ela não. Juntos, eles investigam estranhos casos",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "20:40",
+        "time_end": "21:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: DIRTY HARRY NA LISTA NEGRA",
+    "description": "Ao investigar a morte de um roqueiro famoso, Harry descobre a existência de um jogo mortal, onde um grupo de pessoas faz uma lista com nomes de celebridades que merecem morrer. Mas ele percebe que terá que agir rápido, se quiser sair vivo do caso.",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "21:30",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "POD CAST - IELCAST",
+    "description": "PODCAST",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "23:00",
+        "time_end": "23:59",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODMEIO - PODJOGO ",
+    "description": "PODCAST",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "01:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODMEIO - FALANDO NISSO",
+    "description": "PODCAST",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "01:00",
+        "time_end": "01:57",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PODMEIO - CANAL SAÚDE",
+    "description": "PODCAST",
+    "schedule": [
+      {
+        "start_date": "30-11-2024",
+        "end_date": "30-11-2024",
+        "available": true,
+        "time_start": "01:57",
+        "time_end": "02:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": true,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "POD MEIO -TRÊS POR UM",
+    "description": "PODCAST",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "02:50",
+        "time_end": "03:45",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:  É O FIM",
+    "description": "Os grandes amigos Seth Rogen e Jay Baruchel participam de uma festa na casa do ator James Franco, que reúne diversas celebridades no local, como Jonah Hill, Rihanna, Jason Segel e Emma Watson.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "03:45",
+        "time_end": "06:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA: EM TUAS MÃOS (30min)",
+    "description": "Apresenta, em seus quadros, as ações da Igreja de Teresina, como uma forma de evangelizar através dos meios de comunicação.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "06:00",
+        "time_end": "06:30",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA: PAINEL AGRO",
+    "description": "Apresenta notícias sobre os acontecimetos diários do Brasil  e mundo.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "06:30",
+        "time_end": "07:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SÉRIE: A FAMILIA DINOSSOURO",
+    "description": "Eles são apenas uma família comum com uma GRANDE diferença. Eles são dinossauros, vivendo uma vida boa em sessenta milhões e três a.C. ",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "07:20",
+        "time_end": "08:10",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SÉRIE: AS PANTERAS",
+    "description": "Não satisfeitas com o sucesso e prestígio conquistados após serem consideradas as melhores da turma da academia de polícia, três lindas mulheres decidem fazer uma mudança em suas carreiras profissionais e passam a trabalhar para a agência de investigação do misterioso Charlie Townsend.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "08:10",
+        "time_end": "09:10",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "ANIME:CYBORG 009 ",
+    "description": " após anos a viverem no anonimato, os ciborgues são obrigados a enfrentar um super-humano com um plano terrível para a humanidade.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "09:10",
+        "time_end": "11:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA 100 MILHAS",
+    "description": "Os apresentadores antecipam os lançamentos em modelos e novas tecnologias, visitam os maiores salões internacionais e fazem uma fusão entre o futuro e o passado resgatando a história da indústria automotiva.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "11:00",
+        "time_end": "12:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:   UM SONHO POSSÍVEL",
+    "description": "Michael Oher é um jovem negro, filho de uma mãe viciada e que não tem onde morar. Com boa vocação para os esportes, um dia ele é avistado pela família de Leigh Anne Tuohy, andando em direção ao estádio da escola para dormir longe da chuva",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "12:00",
+        "time_end": "14:20",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: MULHER GATO",
+    "description": "uncionária de uma indústria de cosméticos é assassinada depois de descobrir um perigoso segredo sobre um produto antienvelhecimento. No entanto, um gato egípcio a salva, dando-lhe o poder da velocidade e os sentidos de um ágil felino.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "14:20",
+        "time_end": "16:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: O DIABO VESTE PRADA",
+    "description": "Andy é uma jovem que consegue um emprego na renomada \"Runway Magazine\", a mais importante revista de moda de Nova York. Ela passa a trabalhar como assistente de Miranda Priestly, editora-chefe da revista.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "16:00",
+        "time_end": "18:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SÉRIE: ARQUIVO X  ",
+    "description": "Os agentes do FBI Fox Mulder (David Duchovny) e Dana Scully (Gillian Anderson) são o oposto um do outro: ele acredita em atividades paranormais, e ela não. Juntos, eles investigam estranhos casos",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "18:00",
+        "time_end": "18:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:  SEDE SEM FIM",
+    "description": "Trinta anos depois da guerra ter dizimado o mundo, um guerreiro solitário chamado Eli caminha por horizontes arruinados dando esperança para os que restaram. ",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "18:50",
+        "time_end": "20:50",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SÉRIE: LOST - EPISÓDIO 06",
+    "description": "Um avião cai em uma ilha deserta e logo um grupo de passageiros precisa lutar para sobreviver. Liderados pelo médico Jack Shephard (Matthew Fox) e pelo misterioso John Locke (Terry O'Quinn), eles irão descobrir que o local esconde perigosos segredos.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "20:50",
+        "time_end": "21:40",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "SÉRIE: UMA ODISSEIA COREANA - EPISÓDIO 19",
+    "description": " conta a história de um ser mítico que tenta se tornar invencível, mas acaba nas mãos de uma garota que consegue ver criaturas sobrenaturais.",
+    "schedule": [
+      {
+        "start_date": "01-12-2024",
+        "end_date": "01-12-2024",
+        "available": true,
+        "time_start": "21:40",
+        "time_end": "23:00",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": true
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME: WATERLOO - A BATALHA DE NAPOLEÃO ",
+    "description": "Napoleão retorna do exílio para a alegria de seus compatriotas franceses e reúne um exército para conquistar a Europa. Wellington lidera as forças aliadas para combater os franceses, com os exércitos finalmente se encontrando em Waterloo, na Bélgica.",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "00:00",
+        "time_end": "02:10",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "FILME:O ATAQUE DOS VERMES MALDITOS 03",
+    "description": "O famoso \"matador de monstros\", Burt Gummer (Michael Gross), retorna à cidade Perfection, onde ocorreram os primeiros ataques feitos pelos vermes Grabóides. ",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "00:10",
+        "time_end": "02:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 218,
+    "name": "PROGRAMA VOZ DO POVO COM PAULO BRITO",
+    "description": "Apresenta musicas, humor, entretedimento e interação com o telespectador. ",
+    "schedule": [
+      {
+        "start_date": "02-12-2024",
+        "end_date": "02-12-2024",
+        "available": true,
+        "time_start": "04:00",
+        "time_end": "06:00",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  }
+]

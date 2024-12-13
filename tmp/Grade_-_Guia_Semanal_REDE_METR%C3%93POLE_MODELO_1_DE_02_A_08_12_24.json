@@ -1,0 +1,998 @@
+[
+  {
+    "program": "CINE PRIME",
+    "description": "Sessão de cinema. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "02:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "00:30:00",
+          "stopTime": "02:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "00:30:00",
+          "stopTime": "02:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "00:30:00",
+          "stopTime": "02:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "00:30:00",
+          "stopTime": "02:00:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "03:00:00",
+          "stopTime": "05:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CINE MEIO",
+    "description": "Sessão de cinema com os melhores filmes clássicos da tv.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "02:00:00",
+          "stopTime": null
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "02:00:00",
+          "stopTime": null
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "02:00:00",
+          "stopTime": null
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "02:00:00",
+          "stopTime": null
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "02:00:00",
+          "stopTime": null
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "01:00:00",
+          "stopTime": "03:00:00"
+        },
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:30:00"
+        },
+        {
+          "startTime": "21:30:00",
+          "stopTime": "23:00:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "08:00:00",
+          "stopTime": "10:00:00"
+        },
+        {
+          "startTime": "16:00:00",
+          "stopTime": "16:20:00"
+        },
+        {
+          "startTime": "20:00:00",
+          "stopTime": "22:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "A VOZ DO POVO",
+    "description": "A Voz do Povo do rádio para a TV.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "06:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "BOM DIA, NACIONAL",
+    "description": "O BOM DIA MN é assim que de segunda a sexta acordamos milhares de espectadores com um apanhado das notícias que vão nortear os acontecimentos nas próximas horas. Política, policial, economia, negócio, esporte e muito mais pra você se situar com a melhor informação. Muita informação com uma pitada de entretenimento, artes, cultura, gastronomia, dicas e prestação de serviço à comunidade.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "08:30:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "08:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "INFORME MEIO",
+    "description": "Informe rápido para deixar seu dia mais informado em edições diárias.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        },
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        },
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        },
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        },
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        },
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        },
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        },
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        },
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "08:30:00",
+          "stopTime": "08:35:00"
+        },
+        {
+          "startTime": "15:20:00",
+          "stopTime": "15:25:00"
+        },
+        {
+          "startTime": "16:55:00",
+          "stopTime": "17:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "REVISTA ",
+    "description": "Com público cativo, o REVISTA MEIO NORTE traz logo cedo, um mix dos assuntos atuais com uma abordagem descontraída. Dicas de maquiagem, culinária e moda dividem espaço com direitos da mulher, mercado de trabalho e vários outros temas do universo feminino.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "08:35:00",
+          "stopTime": "10:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "O 10 DO ESPORTE – KAJURU",
+    "description": "A análise esportiva com a opinião de Jorge Kajuru. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "11:35:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "11:35:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "11:35:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "11:35:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "10:30:00",
+          "stopTime": "11:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "RONDA",
+    "description": "O campeão de audiência na tela da Rede Meio. É o Ronda. Uma das mais fortes marcas da história da TV Meio. Todas as notícias do universo policial, do Brasil e do mundo.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "11:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "11:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "11:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "11:35:00",
+          "stopTime": "13:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "11:35:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "AGORA BRASIL",
+    "description": "Apresentado por Amadeu Campos e Liana Paiva o programa Agora traz as principais notícias do dia, com matérias e reportagens que abordam temas relevantes para a sociedade piauiense. Com intensa participação popular pelo whatsapp, o jornalístico é referência no horário, e traz ainda o quadro JOGO DO PODER, líder de audiência, onde os comentaristas Arimatéa Carvalho, Ananias Ribeiro, Samantha Cavalca e Efrém Ribeiro debatem assuntos polêmicos.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:20:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "15:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA DA TARDE",
+    "description": "Tudo o que rola nos bastidores das novelas e programas de TV, novos trabalhos, romances e curiosidades sobre o cotidiano dos famosos, nada sobre eles escapa do programa. Para ﬁcarem bem informados sobre a vida e a carreira do seu artista favorito, os fãs já sabem o que assistir.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "15:25:00",
+          "stopTime": "16:55:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PATRULHA DO COXINHA",
+    "description": "Acompanhe aventuras cheios de humor e piadas com Coxinha.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "17:30:00"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "16:00:00",
+          "stopTime": "17:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PATRULHA ",
+    "description": "Às 19h, Luiz Fortes chega para o Piauí com a cobertura regional das notícias policiais, cobrindo e acompanhando casos de grande repercussão, o desfecho dos fatos, sempre buscando a exclusividade e a verdade em primeiro lugar.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "20:00:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "17:30:00",
+          "stopTime": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA OLÉ",
+    "description": "Olé, apresentado por Geovana Tomé e Cassio Sousa.  A dupla promete trazer os principais gols do Piauí, do Brasil e do mundo, com uma linguagem jovem e leve, ideal para quem busca informação e entretenimento após um dia agitado.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "20:00:00",
+          "stopTime": "20:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA CIÊNCIA DA POLÍTICA",
+    "description": "Uma análise completa do cenário político nacional. ",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "21:35:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "21:35:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "21:35:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "21:35:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "NA TELA COM VICENTE DATENTA",
+    "description": "Na Tela Urgente com Vicente Datena' traz as notícias urgentes e a sua opinião sobre os últimos acontecimentos!",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "21:35:00",
+          "stopTime": "22:35:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "22:00:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ESPAÇO GOURMET",
+    "description": "O ESPAÇO GOURMET é o guia gastronômico mais saboroso da TV. Lia Formiga recebe renomados chefes de cozinha, convidados, e desvendam os mistérios da culinária com receitas simples e rápidas, e menus mais elaborados. Usando referências de cozinhas de várias partes do mundo.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "03/12/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "04/12/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "05/12/2024": [
+        {
+          "startTime": "22:35:00",
+          "stopTime": "23:35:00"
+        }
+      ],
+      "06/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ]
+    }
+  },
+  {
+    "program": "POD JOGO",
+    "description": "Amadeu Campos, Ari Carvalho e Apoliana Oliveira recebem toda semana um convidado novo do mundo político no PodJogo, o podcast do Jogo do Poder.",
+    "days": {
+      "02/12/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "07/12/2024": [
+        {
+          "startTime": "23:55:00",
+          "stopTime": "23:59:59"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FALANDO NISSO",
+    "description": "Um programa com foco, clareza, curiosidade e desenvoltura,\ncom a riqueza de detalhes que uma boa entrevista é capaz de\noferecer. Apresentado por Maia Veloso.",
+    "days": {
+      "03/12/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "00:55:00",
+          "stopTime": "02:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "POD K LIBERADO",
+    "description": "Pod Cast apresentado por Jorge Kajuru.",
+    "days": {
+      "04/12/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "23:59:59"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CANAL SAÚDE",
+    "description": "Acompanhe alguns temas relacionados à saúde.",
+    "days": {
+      "05/12/2024": [
+        {
+          "startTime": "23:35:00",
+          "stopTime": "23:59:59"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "02:00:00",
+          "stopTime": "03:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "BUTIQUIM ",
+    "description": "O Programa Butiquim é uma atração para quem quer curtir muita música e conversas com convidados especiais. Um time bem humorado vai garantir muitas risadas e uma festa animada.",
+    "days": {
+      "06/12/2024": [
+        {
+          "startTime": "20:20:00",
+          "stopTime": "22:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "TRÊS CONTRA UM",
+    "description": "Pod Cast. ",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "00:00:00",
+          "stopTime": "01:00:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "03:00:00",
+          "stopTime": "04:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "99 SHOW",
+    "description": "Programa 99 show",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "05:00:00",
+          "stopTime": "06:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PAINEL",
+    "description": "Uma revista que apresenta o mundo do campo.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "06:50:00"
+        }
+      ],
+      "08/12/2024": [
+        {
+          "startTime": "06:30:00",
+          "stopTime": "07:20:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "TELELECO",
+    "description": "O programa Teleleco transforma as manhãs de domingo da criançada em pura alegria e diversão com o palhaço mais famoso engraçado do meio norte do país: Leleco.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "06:50:00",
+          "stopTime": "10:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "RONDA DO POVÃO",
+    "description": "O programa presta um serviço de utilidade pública e faz o elo entre os brasileiros e as autoridades com bom humor e irreverência.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "FEED MEIO",
+    "description": "O Feed Meio aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "15:30:00",
+          "stopTime": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "BRASIL 40º GRAUS",
+    "description": "Acompanhe as últimas notícias policiais, com muita participação dos repórteres nas ruas, além de grande interatividade com a população que estiver acompanhando de casa.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "17:00:00",
+          "stopTime": "19:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: LOST ",
+    "description": "Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras. ",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "19:00:00",
+          "stopTime": "19:50:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SERIE: SMALLVILE",
+    "description": "Uma interpretação da história de Superman mostra o jovem Clark Kent aprendendo a usar seus superpoderes em Kansas.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "19:50:00",
+          "stopTime": "20:40:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ARQUIVO X",
+    "description": "Agentes especiais do FBI investigam casos inexplicáveis conhecidos como Arquivo X. Embora o governo esteja convencido de que os relatórios sejam falsos, os detetives não descansam até que consigam provar a verdade.",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "20:40:00",
+          "stopTime": "21:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "IEL CAST",
+    "description": "Iel Cast um jeito novo de bater um bom papo em formato podcast com Ieldyson Vasconselos e seus convidados. ",
+    "days": {
+      "07/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:55:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CINE BANG BANG",
+    "description": "Sessão de cinema. ",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "04:00:00",
+          "stopTime": "06:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMAÇÃO RELIGIOSA",
+    "description": "Programação religiosa.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "06:00:00",
+          "stopTime": "06:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": " FAMÍLIA DINOSSAURO",
+    "description": "Um dinossauro, trabalhador operário, tenta lidar com o pavio curto do chefe da Corporação, para que ele possa colocar comida na mesa para sua família.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "07:20:00",
+          "stopTime": "08:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "ANIME",
+    "description": "Sessão com os melhores animes da TV brasileira.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "10:00:00",
+          "stopTime": "11:50:00"
+        },
+        {
+          "startTime": "16:20:00",
+          "stopTime": "18:10:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "CINE NA TELA",
+    "description": "Sessão de cinema com os melhores filmes clássicos ssicos da tv.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "11:50:00",
+          "stopTime": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "100 MILHAS",
+    "description": "Kerly Soares e Maria Elvira antecipam os lançamentos em modelos e novas tecnologias, visitam os maiores salões internacionais e fazem uma fusão entre o futuro e o passado resgatando a história da indústria automotiva.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "13:00:00",
+          "stopTime": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: ARQUIVO X",
+    "description": "Agentes especiais do FBI investigam casos inexplicáveis conhecidos como Arquivo X. Embora o governo esteja convencido de que os relatórios sejam falsos, os detetives não descansam até que consigam provar a verdade.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "18:10:00",
+          "stopTime": "19:05:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "SÉRIE: LOST",
+    "description": "Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras.\n",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "19:05:00",
+          "stopTime": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "DOC ",
+    "description": "Documentário",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "22:00:00",
+          "stopTime": "23:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "program": "PROGRAMA CAFE COM LEITE",
+    "description": "Programa de entrevistas.",
+    "days": {
+      "08/12/2024": [
+        {
+          "startTime": "23:00:00",
+          "stopTime": "23:59:59"
+        }
+      ]
+    }
+  }
+]

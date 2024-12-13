@@ -1,0 +1,232 @@
+[
+  {
+    "channel_id": 92,
+    "name": "Transformers O Inicio",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "13:27",
+        "time_end": "15:15",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Quarto de Guerra",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "15:15",
+        "time_end": "17:16",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Gringo, Dispare sem Piedade",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "17:43",
+        "time_end": "19:14",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Presa",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "19:15",
+        "time_end": "20:41",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Cela-211",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "20:41",
+        "time_end": "22:33",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Filme: Verdade e Honra",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "26-11-2024",
+        "end_date": "26-11-2024",
+        "available": true,
+        "time_start": "22:33",
+        "time_end": "00:29",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "00:29",
+        "time_end": "02:52",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Piratas do Caribe: O Baú da Morte",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "02:52",
+        "time_end": "05:22",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Piratas do Caribe: No Fim do Mundo",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "05:22",
+        "time_end": "08:11",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Piratas do Caribe: Navegando em Águas Misteriosas",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "27-11-2024",
+        "end_date": "27-11-2024",
+        "available": true,
+        "time_start": "08:11",
+        "time_end": "10:27",
+        "days": {
+          "0": false,
+          "1": false,
+          "2": true,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  }
+]
