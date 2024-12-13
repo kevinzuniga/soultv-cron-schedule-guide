@@ -1,0 +1,255 @@
+[
+  {
+    "channel_id": 92,
+    "name": "A Família Addams",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "09:52",
+        "time_end": "11:19",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Missão Catmandu_As Aventuras de Nelly e Simon",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "11:19",
+        "time_end": "12:43",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Super Urso - Um Resgate na Cidade Grande",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "12:43",
+        "time_end": "14:08",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Star Trek - Lower Decks S04E10",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "14:33",
+        "time_end": "15:04",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "LIBERTOS - O PREÇO DA VIDA",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "15:04",
+        "time_end": "16:33",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "O Estranho John Kane",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "17:01",
+        "time_end": "18:32",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Filme: Verdade e Honra",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "18:33",
+        "time_end": "20:28",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Filme:1992",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "20:28",
+        "time_end": "22:05",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Filme: Charlie em Ação",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "22:05",
+        "time_end": "23:35",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Filme: Danificado",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "09-12-2024",
+        "end_date": "09-12-2024",
+        "available": true,
+        "time_start": "23:35",
+        "time_end": "01:13",
+        "days": {
+          "0": true,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  },
+  {
+    "channel_id": 92,
+    "name": "Operação Lioness_S01E05",
+    "description": "Descripción no disponible",
+    "schedule": [
+      {
+        "start_date": "10-12-2024",
+        "end_date": "10-12-2024",
+        "available": true,
+        "time_start": "01:13",
+        "time_end": "01:52",
+        "days": {
+          "0": false,
+          "1": true,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        }
+      }
+    ]
+  }
+]
